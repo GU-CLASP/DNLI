@@ -1,0 +1,516 @@
+Alfred	can I ?
+Mother	sure .
+Mother	what color is it ?
+Alfred	this ?
+Mother	mhm .
+Alfred	this spot is yellow .
+Mother	it's yellow ?
+Alfred	mhm .
+Mother	well let me ask you this .
+Mother	when you went to the airport with aunt Julie ?
+Mother	what'd ya'll see ?
+Alfred	airplane .
+Mother	you did ?
+Alfred	&-uh huh .
+Mother	what was it doing ?
+Alfred	it was going up in . xxx .
+Mother	it went up in the sky ?
+Alfred	&-uh huh .
+Mother	and aunt Julie said ya'll got to ride something else .
+Mother	what else did you ride ?
+Alfred	car .
+Mother	and what else ?
+Alfred	nothing .
+Mother	you rode the elevator and the escalator , and the train !
+Alfred	uhhuh .
+Mother	right ?
+Mother	where'd you have lunch today ?
+Mother	where'd you eat your sandwich today ?
+Alfred	at Mimi's .
+Mother	you did ?
+Mother	and what'd you and Cotter do at Mimi's house ?
+Mother	what'd you ride on ?
+Alfred	a bike .
+Mother	what was it ?
+Mother	take your finger out_of your mouth and let me ask you something .
+Mother	what'd Mimi spray on that bike to make it go faster ?
+Mother	you helped her didn't you ?
+Alfred	&-uh huh .
+Mother	what'd you spray on it ?
+Alfred	Mimi did it .
+Mother	Mimi did it ?
+Mother	what'd she use ?
+Mother	it came out_of a can , didn't it ?
+Alfred	&-uh huh .
+Mother	what was it called ?
+Alfred	&-um , bike spray .
+Mother	right .
+Mother	it's called W_D_forty .
+Alfred	uhhuh .
+Mother	did it make it go a lot faster ?
+Alfred	&-uh huh .
+Alfred	white car .
+Mother	it went real fast ?
+Alfred	&-uh huh .
+Mother	great !
+Mother	well did you go swimming yesterday ?
+Mother	yes you did , remember ?
+Alfred	where .
+Mother	in your big swimming pool ?
+Mother	and what else did we do yesterday ?
+Alfred	I didn't swim .
+Mother	you didn't ?
+Alfred	&-uh &-uh .
+Mother	who else came over ?
+Alfred	Connor .
+Mother	and who else ?
+Alfred	not Carsey .
+Mother	what was that other boy's name .
+Alfred	what ?
+Mother	that came over .
+Mother	what was that other little boy's name .
+Mother	what was his name ?
+Mother	come here .
+Mother	I wanna show you something .
+Mother	what did ya'll do at school today ?
+Mother	did ya'll plant something ?
+Alfred	xxx .
+Mother	who plants something ?
+Mother	what's that man called .
+Alfred	what ?
+Mother	the farmer ?
+Mother	and what does he plant ?
+Alfred	what ?
+Mother	seeds .
+Alfred	seeds .
+Mother	did you plant some seeds at school today ?
+Alfred	&-um hm: .
+Mother	really ?
+Alfred	are they at school ?
+Mother	&-uh huh .
+Mother	when are you gonna bring em home ?
+Alfred	hm: ?
+Mother	when are you gonna bring em home ?
+Alfred	Mommy ?
+Mother	mhm ?
+Alfred	where's mine ?
+Mother	at school .
+Alfred	I'm gonna bring em home tomorrow .
+Mother	really ?
+Alfred	&-uh huh .
+Mother	you think it'll be a plant yet ?
+Alfred	&-um hm: .
+Alfred	xxx .
+Mother	what's all this ?
+Alfred	circus .
+Mother	the circus ?
+Mother	and what's is ?
+Alfred	a vacuum  cleaner .
+Mother	a vacuum cleaner .
+Mother	  good .
+Alfred	and he's , what's he doing ?
+Mother	he's fishing .
+Mother	and , let's see over here .
+Mother	ah , what are these +...
+Alfred	this is a bike .
+Mother	&-uh huh .
+Alfred	what is he doing on the bike ?
+Mother	he's riding .
+Mother	what's is ?
+Alfred	a school bus .
+Mother	who rides to school ?
+Alfred	&-um , that pig .
+Mother	are you gonna ride to school in a school bus ?
+Alfred	&-uh huh .
+Mother	when ?
+Alfred	when I get a little older .
+Mother	when you get a little older .
+Alfred	a hole in the xxx see , the dog's running off , xxx .
+Mother	wow .
+Alfred	what's that ?
+Mother	that's called a , roller .
+Mother	which one do you wanna ride on ?
+Alfred	&-um . I get a  ride , he's riding on that ,
+Mother	which one can I ride ?
+Alfred	&y , you can ride on +...
+Mother	this one ?
+Mother	that one ?
+Mother	what color is that ?
+Alfred	yellow , and this is got blue xxx .
+Mother	what color is that ?
+Mother	blue .
+Alfred	I may get on that  one , and I may get off and I may get on
+Mother	okay .
+Alfred	Daddy want ta drive a bulldozer ?
+Father	mhm .
+Alfred	okay .
+Alfred	Daddy wanna drive a bulldozer .
+Mother	great .
+Mother	oh , who's gonna sleep in the baby bed ?
+Mother	who , who ?
+Alfred	that baby .
+Mother	&aw , isn't he sweet .
+Alfred	and that's the mommy .
+Mother	is that the mommy ?
+Alfred	&-uh huh .
+Alfred	she bringing to the baby .
+[ANNOTATION]	Alfred wants to ride a bulldozer	Neutral
+Mother	what's she bringing to the baby ?
+Mother	toys  okay , who's at the circus ?
+Alfred	I got two circus .
+Alfred	I got two circus .
+Mother	what are these ?
+Alfred	ah !
+Alfred	xxx what's these  ?
+Mother	what are they ?
+Alfred	&-uh , firetrucks .
+Mother	who , where'd , did you get sit in a firetruck ?
+[ANNOTATION]	Alfred likes firetrucks	Neutral
+Alfred	&-uh huh .
+Mother	who's birthday party was it ?
+Alfred	Scott's .
+Mother	really ?
+Mother	oh that was nice .
+Mother	that was fun .
+Alfred	where they going ?
+Mother	they're probably gonna go ride !
+Alfred	where ?
+Mother	to the fire !
+Alfred	what is he doing ?
+Mother	what is he doing ?
+[ANNOTATION]	Alfred went to Scott's birthday party	Entailment
+Alfred	putting out the fire .
+Mother	what's he using ?
+Alfred	the hose .
+Mother	mhm .
+Mother	and what's it shooting out ?
+Alfred	fire .
+Mother	water .
+Alfred	water .
+Mother	mhm .
+Mother	ah !
+Mother	what's at ?
+[ANNOTATION]	Someone is shouting fire.	Contradiction
+Alfred	I went on that  . I went on the train .
+Mother	when ?
+Alfred	  at with aunt Julie , with Howard .
+Alfred	look at these  trains , Mommy .
+Mother	what color is that one ?
+Alfred	this caboose ?
+[ANNOTATION]	Alfred didn't ride the train	Contradiction
+Mother	hmhm .
+Alfred	&-um , red .
+Mother	mhm .
+Alfred	are they  on the railroad tracks ?
+Mother	they sure are .
+[ANNOTATION]	The train is on fire	Neutral
+Alfred	they can't get off the  railroad tracks .
+Mother	I hope not .
+Alfred	are they  ?
+Mother	no , they're not gonna get off the railroad tracks .
+Alfred	who is that  ?
+Mother	where ?
+Alfred	that .
+Mother	that's called , &-uh , that's the engine .
+Mother	that pulls it .
+Alfred	mhm .
+Mother	what color's that ?
+Mother	the engine .
+Alfred	this .
+Mother	this one .
+Alfred	&-um , &pur that , motor right there ?
+Mother	&-um hm: .
+Alfred	purple .
+Mother	&-um hm: .
+Mother	and where are they ?
+Mother	boy , where do we wanna go ?
+Alfred	xxx .
+Mother	where are you gonna wear your flip flops ?
+Mother	the beach !
+Alfred	what this  , look at this  big fish .
+Alfred	look at that  little  fish .
+Mother	mhm .
+Alfred	look_it , what's that  ?
+Mother	that's called a shrimp .
+Alfred	what do you do with it ?
+Mother	you eat it .
+Alfred	I like  shrimp !
+Alfred	look at that big fish !
+Mother	yeh .
+Mother	what's that right there , like Daddy has ?
+Alfred	paw .
+Mother	what is it though ?
+Alfred	&-um , a motor box .
+Mother	no , it's a boat !
+Alfred	a boat .
+Mother	&-um hm: .
+Alfred	do you got , did you got , do you get wet in it ?
+Father	we gotta talk into that ?
+Alfred	&-uh huh .
+Father	into the microphone ?
+Alfred	&-uh huh .
+Father	is that what that is ?
+Father	okay .
+Father	you ready ?
+Father	hm: !
+Father	you gonna talk with Dad ?
+Alfred	huh ?
+Father	you gonna talk with Dad ?
+Alfred	there's  where . I gotta talk through here .
+Father	okay you may talk through there .
+Alfred	there's  where you cut it off .
+Father	okay .
+Father	it's on now , though .
+Father	okay ?
+Alfred	is it ?
+Father	yeh .
+Father	see it's recording , so let's not play with it , okay ?
+Alfred	in a minute ?
+Father	yeh . okay .
+Father	let's just leave it alone , okay .
+Father	that's good .
+Alfred	in a minute we can play with it ?
+Father	no , we're not gonna play with it .
+Father	let's not bother it , okay ?
+Alfred	in a minute ?
+Father	in a minute , right .
+Father	did you come to the office this morning with mom ?
+Alfred	&-uh huh .
+Father	you did , didn't ya ?
+Father	  what'd you see at the office this morning .
+Alfred	&-um , a tracker .
+Father	tractor ?
+Alfred	&-uh huh .
+Father	and what else ?
+Father	did you see those trucks ?
+Father	hm: ?
+Father	what kind of trucks do we have ?
+Alfred	two .
+Father	what kind are they ?
+Alfred	one is black and one is brown .
+Father	are they dump+trucks ?
+Alfred	huh ?
+Father	are they dump+trucks ?
+Alfred	mhm .
+Father	they are , aren't they ?
+Father	where was the back+hoe [?] ?
+Alfred	huh ?
+Father	where was the back+hoe this morning ?
+Alfred	at . out on the job .
+Father	that's right .
+Father	it was , wasn't it ?
+Father	and the blue tractors were gone too .
+Alfred	&-uh huh .
+Father	and there weren't any tractors there for you to ride , were there ?
+Alfred	hm: ?
+Father	there weren't any tractors there for you to ride , were there ?
+Father	was Miss Crabb there ?
+Alfred	&-uh huh .
+Father	did you say hi to Miss Crabbs ?
+Father	what does Miss Crabbs usually keep in her office that you like ?
+Alfred	what ?
+Father	what do you always come in and hunt for in her office ?
+Alfred	&-uh huh .
+Father	cookies ?
+Alfred	cookies .
+Father	yeh .
+Father	and does she let you play with , what in the office ?
+Alfred	what ?
+[ANNOTATION]	Alfred enjoys pizza.	Contradiction
+Father	an adding machine ?
+Alfred	&-uh huh .
+Father	and what else do we see in there .
+Father	the typewriters ?
+Alfred	&-uh huh .
+Father	and the xxx .
+Alfred	what this . I xxx what this ?
+Father	that's a bridge .
+Alfred	oh , well I get on it .
+Father	we have one of those at the cabin , don't we ?
+Alfred	&-uh huh .
+[ANNOTATION]	Alfred saw Miss Crabbs.	Neutral
+Father	did you and mom walk down across that creek on the bridge ?
+Alfred	&-uh huh .
+Father	you did , didn't you ?
+Alfred	didn't we , mama ?
+Father	and we fished up at the cabin , didn't we .
+[ANNOTATION]	Aldred went to school today.	Contradiction
+Alfred	&-um hm: .
+Father	who went fishing with us ?
+Alfred	Todd .
+Father	and who else ?
+Alfred	and Travis .
+Father	that's right .
+[ANNOTATION]	Alfred played tennis with Jennifer	Contradiction
+Father	did we catch any fish ?
+Alfred	we did !
+Father	what were we fishing with ?
+Father	what kind of bait ?
+Alfred	fish and worms .
+Father	worms , that's right .
+Father	we had fun with those worms , didn't we ?
+Alfred	what is he doing ?
+Father	huh ?
+Father	he's mowing the grass , isn't he ?
+Alfred	&-uh huh .
+[ANNOTATION]	Father spent the day with Ms. Crabbs.	Contradiction
+Father	just like you help dad mow the grass , don't ya ?
+Alfred	that's  xxx .
+Father	yeh , it is a little , isn't it ?
+Father	what did we do this weekend that you helped me do out back ?
+Alfred	what ?
+[ANNOTATION]	Alfred helped to mow the grass.	Entailment
+Father	huh ?
+Alfred	helped you +...
+Father	huh ?
+Father	that's a fertilizer spreader .
+Alfred	what do you do with it ?
+Father	you put out fertilizer with that .
+Alfred	oh .
+Father	what did we haul off in the backyard this weekend ?
+Alfred	what ?
+Father	we , huh ?
+Alfred	what ?
+Father	you , you helped me and Dr Jimmy helped me .
+Father	what were we loading ?
+Alfred	the dump truck .
+Father	&-uh huh .
+Father	what were we putting in it ?
+Alfred	rocks .
+Father	&-uh huh .
+Father	where did we haul em and dump em ?
+Father	huh ?
+Alfred	at Dr Jimmy's .
+Father	yeh , that's right .
+Alfred	tell about this boat .
+Father	that boat ?
+Alfred	&-uh huh .
+Father	what do you +...
+Father	you get in a boat , and what do you ride on ?
+Father	do you ride on water ?
+Alfred	no !
+Father	yes you do .
+Father	cause you're in the lake , aren't ya ?
+Father	what do we have at the cabin that we ride in the water on ?
+Alfred	what ?
+Father	it's back in the bed+room ?
+Father	it was at Paul's house ?
+Alfred	&-uh huh .
+Father	wasn't it a canoe ?
+Alfred	&-uh huh .
+Father	it's a big canoe , isn't it ?
+Alfred	what's this ?
+Father	that's an oyster .
+Alfred	what do you do with it ?
+Father	you eat oysters .
+Alfred	oh .
+Father	they come from the ocean .
+Alfred	oh .
+Father	they have a_lot_of protein in em .
+Alfred	look at this big fish , Dad !
+Father	yeh .
+Father	that is a big one , isn't he ?
+Alfred	what is it . what is he doing ?
+Father	he's a bluefish .
+Father	he's just swimming in the water , isn't he ?
+Alfred	what's these  ?
+Father	those are his fins .
+Father	that's his tail .
+Alfred	oh .
+Alfred	makes him swim ?
+Father	yeh , that makes him swim !
+Father	that's right !
+Alfred	what these ?
+Father	that's , &-uh , the dorsal fin .
+Father	and that's what he steers by .
+Father	see ?
+Alfred	oh .
+Alfred	  what's this  ?
+Father	what is that ?
+Alfred	a mouth .
+Father	that's right .
+Alfred	do we eat fish ?
+Father	yes , we eat fish .
+Alfred	we like  fish , right ?
+Father	we sure do .
+Father	it's good for us , isn't it ?
+Alfred	we like  fish , right ?
+Father	&-um hm: .
+Father	makes us healthy , doesn't it ?
+Alfred	what is he doing ?
+Father	huh ?
+Alfred	what is he doing ?
+Father	he's looking through a telescope , isn't he ?
+Father	what kind of bird is that ?
+Alfred	what bird ?
+Father	this bird right here .
+Father	you know what kind of bird that is ?
+Alfred	&-uh huh .
+Father	that's an owl .
+Alfred	oh .
+Alfred	what we do with that ?
+Father	huh ?
+Alfred	what we do with owl ?
+Father	an owl catches insects and eats little tiny mice .
+Father	that's what you do with em .
+Alfred	  mommy , read bout this store .
+Father	about the grocery store ?
+Alfred	&-uh huh .
+Father	who is this lady right here ?
+Alfred	pig .
+Father	Miss Piggy ?
+Alfred	&-uh huh .
+Father	that's right .
+Father	is she buying groceries ?
+Father	what all is she buying ?
+Father	isn't that ice cream ?
+Alfred	nuh huh .
+Father	huh ?
+Alfred	nuhhuh .
+Father	that's ice cream right there .
+Father	what is this .
+Alfred	what ?
+Father	aren't those eggs ?
+Alfred	&-um hm: .
+Father	and what is this ?
+Alfred	strawberries .
+Father	strawberries ?
+Father	looks like it , doesn't it ?
+Father	but those are really orange juice .
+Alfred	&-uh huh .
+Father	what is this ?
+Alfred	&-um , pig .
+Father	no , &-um &-um .
+Father	what do we have for breakfast and supper , that you drink ?
+Alfred	&-um .
+Father	milk ?
+Alfred	milk .
+Father	yeh .
+Alfred	what that ?
+Father	that's milk .
+Father	see , there's a cow on the carton .
+Father	see the cow ?
+Father	right there ?
+Father	that's what that is , isn't it ?
+Alfred	what's he doing ?
+Father	huh ?
+Father	he's shopping also , isn't he ?
+Father	he's got a bag of oranges , doesn't he ?
+Alfred	what is he doing ?
+Father	that's the butcher .
+Alfred	what is he doing ?
+Father	he's cutting meat .
+Alfred	oh .
+Father	what kind of meat do we like to eat ?
+Father	roast beef ?
+Alfred	&-uh huh .
+Father	don't you like roast beef ?
+Alfred	want ta sit like that .
+Father	huh ?
+Alfred	sit like this .
+Father	okay , you may sit like that .
+Alfred	yeh ?
+Father	&-uh huh .
+Alfred	know what . scoot back .
+Father	scoot it back a little bit ?
+Father	okay .

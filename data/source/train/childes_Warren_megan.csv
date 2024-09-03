@@ -1,0 +1,525 @@
+Mother	okay .
+Mother	pick it up .
+Mother	what is that right there , huh ?
+Mother	can you tell mommy what that is ?
+Mother	thank_you .
+Mother	can you tell mommy what that is ?
+Mother	huh ?
+[ANNOTATION]	the mother is talking to her child	Entailment
+Megan	pumpkin .
+Mother	pumpkin .
+Mother	and what's that right there ?
+Mother	what's this ?
+Mother	fish .
+Mother	and what's that ?
+Mother	what's this right here , Megan ?
+Mother	any other time she'd be all over this book .
+Mother	what's this right here .
+Mother	Megan , Megan , what's that ?
+Mother	what's that ?
+Megan	dog !
+Mother	and what's the dog say .
+Megan	bow wow .
+Mother	bow wow .
+[ANNOTATION]	megan doesn't know what a dog is	Contradiction
+[ANNOTATION]	The next item in the book is a tiger	Neutral
+Mother	that's right !
+Mother	okay .
+Mother	let's see what else we can find in this book .
+Mother	what is that little bear doing right there ?
+Megan	teeth  .
+Mother	he's brushing his teeth , isn't he ?
+Mother	what's he doing right here ?
+Mother	look Megan .
+Mother	come here .
+Mother	what's the little bear doing right there ?
+[ANNOTATION]	the mother and daughter are reading a book	Entailment
+[ANNOTATION]	Bears need to keep their teeth clean	Neutral
+Mother	come here .
+Mother	Megan !
+Mother	Mommy's reading the book by herself .
+Mother	come here !
+Mother	come here and read the book to mommy .
+Mother	Megan come here .
+Megan	Mommy .
+Mother	bring that to mommy .
+Mother	bring that to mommy and let me see what it is .
+[ANNOTATION]	megan is one year old	Neutral
+[ANNOTATION]	The child is bored of the book	Neutral
+Mother	look !
+Mother	what this right here ?
+[ANNOTATION]	the mother is reading a book to her daughter	Entailment
+[ANNOTATION]	The mother has the child with her reading	Neutral
+Mother	what is that ?
+Mother	huh ?
+Mother	what's that right here ?
+Mother	what is that ?
+Mother	Megan . ah !
+Mother	look .
+Mother	what is that .
+[ANNOTATION]	megan is not answering her mother	Entailment
+[ANNOTATION]	The child knows what they are looking at here	Neutral
+Mother	what is that , huh ?
+Mother	xxx what is that ?
+Megan	bee +...
+Mother	no , what is that ?
+Mother	is that a bike ?
+Mother	can you say bike ?
+Mother	and what is that right there ?
+Mother	what is that .
+Megan	choochy [: choo_choo] .
+Mother	what is that ?
+Megan	choo_choo bah .
+Mother	it's a choo_choo .
+Mother	is that a choo_choo train ?
+Mother	and what is that ?
+Megan	horsie .
+Mother	horsie ?
+Mother	horsie .
+Mother	let's see if we can find the animals back here .
+Mother	you like the animals , don't you ?
+Mother	ah !
+Mother	look at this !
+Mother	what is . what is this right here ?
+Mother	what kind of animal is that ?
+Mother	huh ?
+Mother	Megan ?
+Mother	no no .
+Megan	Amye .
+Mother	no no .
+Mother	that's Amye's .
+Mother	that's not to play with .
+Mother	come here and show mama what's in this book .
+Mother	what is this right here ?
+Mother	huh ?
+Mother	come here and sit on mama's lap .
+Mother	ah !
+Mother	look .
+Mother	there's the bee .
+Mother	what's the bee say ?
+Megan	buh@o .
+Mother	bzz ?
+Mother	huh ?
+Megan	bzz .
+Mother	is that what the bee says ?
+Mother	what is this up here .
+Mother	look .
+Mother	what is that ?
+Mother	Megan +...
+Megan	cookie .
+Mother	come here .
+Mother	Megan .
+Mother	tell me what this is .
+Mother	huh ?
+Mother	is that a plane ?
+Mother	you gonna sit and look at it now ?
+Mother	is that the plane ?
+Mother	huh ?
+[ANNOTATION]	Someone sees something that looks like a plane to them.	Entailment
+Mother	let's go back over here .
+Mother	what is that right there .
+Mother	huh ?
+Megan	bee xxx .
+Mother	no , what is that right there .
+Megan	bee .
+Mother	huh ?
+Mother	what's the rooster say ?
+Megan	dope a doo .
+Mother	cock a doddle@wp doo !
+Mother	that's right .
+Mother	what is this over here ?
+Mother	is that a duck ?
+Mother	tell mommy what the duck says .
+Mother	Megan .
+[ANNOTATION]	The duck laid an egg this year.	Neutral
+Mother	here ya go .
+Mother	okay .
+Mother	let's look at a different book .
+Mother	let's look at this book let's look at this book .
+Mother	what is that ?
+Mother	what kinda animal is that ?
+Megan	kitty  .
+Mother	that's a kitty .
+[ANNOTATION]	Two people know how to say kitty	Entailment
+Mother	what's the kitty cat say ?
+Mother	hm: ?
+Mother	what are you eating ?
+Mother	what is that ?
+Mother	what are you eating , Megan ?
+Megan	eat .
+Mother	what are you eating ?
+[ANNOTATION]	Someone is eating something.	Entailment
+Megan	xxx cookie oh .
+Mother	cookie ?
+Mother	that's right .
+Mother	and who is this right here ?
+Megan	Dumpty .
+Mother	that's Humpty Dumpty , isn't it ?
+[ANNOTATION]	Two people know exactly what cookie is.	Neutral
+Megan	fall .
+Mother	yeh , he fell off the wall , didn't he ?
+Megan	fall ?
+Mother	what did he say when he hit the ground ?
+Mother	he say boom !
+Mother	did he say boom ?
+Megan	boomah@o !
+Mother	boom .
+[ANNOTATION]	No one fell.	Contradiction
+Mother	that's right .
+Megan	boomah@o .
+Mother	and who is that ?
+Mother	huh ?
+Mother	is that the little lamb ?
+Mother	can you say lamb ?
+Megan	ah .
+Mother	lamb ?
+Mother	what's the little lamb say ?
+Mother	baa ?
+Mother	what is this right here ?
+Megan	tick  tock .
+Mother	tick tock .
+Mother	say tick tock goes the clock .
+Megan	tick tock .
+Mother	tick tock ?
+Mother	that's right .
+Megan	go a .
+Mother	and who is that ?
+Mother	is that the old woman in the shoe ?
+Mother	see the shoe ?
+Mother	say shoe ?
+Megan	shoe .
+Mother	shoe ?
+Mother	that's right !
+Mother	it's a big old shoe , isn't it .
+Mother	well let's see what else we can find in this book .
+Mother	we have lots_of different things in this book .
+Mother	what is that ?
+Megan	choo_choo !
+Mother	choo_choo !
+Mother	that's right !
+Mother	that's a choo_choo train !
+Mother	&-uh !
+Mother	look at all these different animals , Megan .
+Mother	do you see a monkey in there ?
+Megan	&-uh &-uh .
+Mother	I guess this isn't the right page for monkeys .
+Mother	what is that right there ?
+Mother	hm: ?
+Megan	ah .
+Mother	that's a lion , isn't it ?
+Megan	bite !
+Mother	huh ?
+Mother	does the lion bite ?
+Mother	the lion bite ?
+Mother	what is that right there ?
+Megan	baby .
+Mother	baby .
+Mother	that's right .
+Mother	that is a baby .
+Mother	and look what all we have here !
+Mother	what is that ?
+Mother	huh ?
+Mother	what does Santa Claus say ?
+Megan	ho ho .
+Mother	ho ho .
+Mother	that's right .
+Mother	and what's that ?
+Megan	tree .
+Mother	tree .
+Mother	it's the Christmas tree .
+Mother	that's where Santa Claus puts all your toys , isn't it ?
+Megan	in tree .
+Mother	mhm .
+Mother	what is that ?
+Mother	what's that right there ?
+Megan	&a:h .
+Mother	that's a birthday cake , isn't it ?
+Mother	say birthday cake .
+Mother	what's this up here ?
+Megan	pumpkin .
+Mother	pumpkin .
+Mother	that's right .
+Mother	goodness gracious what is that ?
+Megan	bus .
+Mother	bus .
+Mother	and what's this ?
+Mother	that's a car !
+Mother	how does the car sound , Megan ?
+Megan	boomah@o .
+Mother	say brmm@o brmm@o .
+Mother	is that how the car sounds ?
+Megan	boom boom .
+Mother	here's the circus animals .
+Mother	see the monkeys ?
+Mother	what is that ?
+Megan	mon:key .
+Mother	huh ?
+Megan	mon:key .
+Mother	monkey .
+Mother	and what's this up here ?
+Mother	what kind of animal is this up here ?
+Mother	huh ?
+Mother	Megan , what is that ?
+Mother	zebra .
+Mother	that's right .
+Megan	zebra  .
+Mother	zebra .
+Mother	and what is this right down here ?
+Mother	did Megan ride this at the zoo ?
+Mother	what did Megan ride at the zoo ?
+Mother	what's that .
+Megan	choo_choo .
+Mother	choo_choo .
+Mother	yeh .
+Mother	she rode the choo_choo train at the zoo , didn't she ?
+Mother	and , what is that ?
+Mother	what kind of animal is that ?
+Megan	monk .
+Mother	huh .
+Megan	monke:y .
+Mother	no , there's the monkey .
+Mother	this is a tiger .
+Mother	say tiger ?
+Mother	tiger .
+Mother	what is this down here .
+Mother	huh ?
+Mother	what is that ?
+Mother	do you put these on your feet Megan ?
+Mother	what are those called ?
+Megan	shoe .
+Mother	shoes .
+Mother	that's right !
+Mother	what's the dentist looking at right there ?
+Megan	&-uh .
+Mother	teeth .
+Mother	looking at the animals' teeth ?
+Mother	hm: ?
+Mother	and what is all that ?
+Megan	Daddy .
+Mother	is that Daddy's boats ?
+Mother	are those boats ?
+Mother	huh ?
+Megan	Daddy .
+Mother	yeh , what is that right there ?
+Megan	boat .
+Mother	boat , that's right .
+Mother	is that Daddy in the speedboat right there ?
+Mother	who is it ?
+Mother	xxx that Daddy sitting in the speedboat ?
+Mother	what does the boat sound like ?
+Megan	bum bum .
+Mother	brum@o brum@o .
+Mother	is that what it sounds like ?
+Mother	what is this up here Megan ?
+Megan	bee .
+Mother	huh ?
+Mother	what is that ?
+Mother	that's a cake .
+Megan	cake .
+Mother	cake .
+Mother	say yummy yummy .
+Mother	and what is that up there ?
+Megan	Bobows .
+Mother	Bobows .
+Mother	that's right .
+Mother	oh: !
+Mother	what's that ?
+Megan	pane .
+Mother	plane .
+Mother	fly up in the air doesn't it ?
+Mother	do you remember flying on the plane ?
+Megan	xxx .
+Mother	hm: ?
+Megan	ah oh .
+Father	&-uh oh .
+Megan	xxx .
+Father	say come on keys .
+Father	come on keys .
+Megan	xxx .
+Father	come on keys .
+Megan	&mon .
+Father	keys .
+Megan	Amye .
+Father	that's Amye .
+Father	that's right don't hold the microphone .
+Father	look [?] what's this ?
+Father	what's at ?
+Father	what's at ?
+Father	what's at ?
+Father	say duck ?
+Megan	&-uh .
+Father	what's at ?
+Megan	&-uh .
+Father	what's that duck say ?
+Father	Megan ?
+Father	gonna put the keys to the microphone .
+Father	what's the duck say ?
+Megan	quack quack .
+Father	quack quack .
+Father	now let's look at the book .
+Father	here , read Daddy the book .
+Father	here , read this book .
+Father	Megan ?
+Father	look here .
+Father	no , don't eat the microphone , sweetie .
+Father	look !
+Father	what's that ?
+Father	Megan .
+Father	look here , what's that ?
+Megan	bun .
+Father	she's not very interested in the book .
+Father	look !
+Father	look here .
+Father	what's that ?
+Megan	&ba .
+Father	what ?
+Father	hey Pete , look .
+Megan	book .
+Father	look !
+Father	what color is that ?
+Father	what color is that ?
+Father	say blue ?
+Father	say blue ?
+Father	blue .
+Father	put the blocks in the box .
+Father	now ?
+Megan	key ?
+Father	keys .
+Father	say now !
+Father	now .
+Megan	xxx .
+Father	give Daddy the keys .
+Megan	key .
+Father	where are those keys ?
+Megan	Amye .
+Father	whose keys are those ?
+Megan	Amye .
+Father	say Amye ?
+Megan	Amye .
+Father	Amye .
+Megan	Amye , Amye .
+Amye	thank_you .
+Megan	Amye , Amye .
+Father	say something else !
+Megan	Amye .
+Father	what's your name ?
+Father	don't touch that .
+Father	say tape ?
+Father	here , let's play with this .
+Father	look here .
+Father	who's that ?
+Father	who's that Pete ?
+Father	who's that ?
+Megan	Goofy .
+Father	Goofy , that's right .
+Father	who's this ?
+Father	look !
+Father	who's that ?
+Megan	Dumbo .
+Father	Dumbo .
+Father	who's is ?
+Father	xxx here .
+Father	who's that ?
+Father	sit down .
+Father	oh !
+Father	sit down right here .
+Father	sit on the box .
+Father	sit down .
+Father	do this .
+Father	alright , look here .
+Father	who's that ?
+Megan	Mick mouse .
+Father	Mickey mouse .
+Father	now you sit here .
+Father	sit down right here .
+Father	who's that ?
+Megan	duck .
+Father	Donald duck ?
+Father	tell them bye bye .
+Father	say bye bye .
+Father	say bye bye .
+Father	where's Goofy ?
+Father	xxx where's Goofy ?
+Megan	Amye .
+Father	yeh , that's Amye .
+Father	what you want ?
+Megan	eee .
+Father	keys ?
+Father	say please ?
+Father	say please .
+Megan	please .
+Father	good .
+Megan	xxx .
+Father	whose keys are those ?
+Megan	Amye !
+Father	yeh .
+Father	give them to Amye .
+Father	give Amye her keys .
+Father	say there !
+Amye	thank_you .
+Father	say now !
+Father	&-uh oh .
+Father	xxx .
+Megan	block , block .
+Father	what ?
+Father	box ?
+Father	here , it on the box .
+Father	sit on the box , sit on the box and talk to Daddy .
+Father	okay .
+Father	now you tell me who these people are .
+Father	who's at ?
+Father	who's that ?
+Father	is that Goofy ?
+Father	is that Goofy ?
+Father	Goofy ?
+Megan	Goofy .
+Father	Goofy .
+Megan	bye bye .
+Father	bye bye goofy .
+Father	oh look !
+Father	Donald duck !
+Father	say bye bye , Donald duck .
+Father	where's Dumbo ?
+Megan	Dumbo .
+Father	where is Dumbo !
+Father	there he is !
+Megan	Dumbo .
+Father	Dumbo .
+Father	say bye bye Dumbo .
+Father	who's that ?
+Megan	Dumbo .
+Father	no , who is that ?
+Father	look Pete .
+Father	who is at ?
+Father	say Mickey mouse .
+Father	xxx .
+Megan	baby .
+Father	what ?
+Megan	baby .
+Father	what is that ?
+Megan	baby .
+Father	baby .
+Megan	block .
+Megan	block .
+Megan	block .
+Megan	block .
+Megan	block .
+Father	here let's do this .
+Father	let's ride the blocks .
+Father	where's the block ?
+Megan	0 .
+Father	where's the block ?
+Megan	there .
+Father	there it is !
+Father	xxx another block .
+Father	what's at ?
+Father	what's that ?
+Megan	tick tock .
+Father	tick tock .
+Megan	bye bye .
+Megan	bye bye .
+Father	bye bye .
+Father	where ya going ?
+Father	&-uh oh .
+Megan	block .
+Megan	block .

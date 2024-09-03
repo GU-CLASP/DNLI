@@ -1,0 +1,637 @@
+Gina	nun &-uh .
+Gina	these  in that  book .
+Gina	we did that  book before , right ?
+Mother	we did that book before , that's right .
+Gina	xxx no this  .
+Mother	okay .
+Gina	let's do this  one .
+Mother	we're gonna this page right here .
+Mother	it says which one is smallest ?
+Mother	in each box make a brown x [the alphabetical letter] on the one that is smallest .
+Mother	well we needta go in here and get the brown crayon .
+Mother	which one is brown ?
+Mother	that's black .
+Gina	where brown ?
+Mother	I see one sticking out +...
+Mother	that's right that's brown .
+Gina	okay .
+Gina	where brown ?
+Mother	okay .
+Mother	look in this square , and which one of these flags is the smallest
+[ANNOTATION]	Gina is drawing	Contradiction
+Gina	this one .
+Mother	wait a minute .
+Mother	let's don't mark yet .
+Mother	put your finger +...
+Mother	let me hold the crayon .
+Mother	put your finger on the smallest one smallest means little .
+[ANNOTATION]	Mother hlds the crayon	Neutral
+Mother	out_of all the +...
+Mother	okay .
+Mother	that's the one , this is the one that's little .
+Mother	okay , these two are bigger .
+Mother	this one is little , so_that means its smaller .
+Mother	put your finger . put your x [the alphabetical letter] on it .
+Mother	remember how to make an x [the alphabetical letter] ?
+Mother	okay that's good .
+Mother	alright , here we have three animals .
+Mother	which one of those three animals is the smallest ?
+Mother	that means which one is little .
+Mother	okay .
+Mother	make your x [the alphabetical letter] .
+Mother	use your crayon +...
+Mother	very good .
+[ANNOTATION]	Mother wants gina to make an O	Contradiction
+Mother	you took your crayon out .
+[ANNOTATION]	Mother is happy	Entailment
+Mother	you're not talking , are you ?
+Mother	what are these three things ?
+Mother	what is this ?
+Gina	mailbox .
+Mother	mailbox .
+Mother	what is this ?
+Mother	say stop sign .
+Mother	and what is that .
+[ANNOTATION]	The mailbox is green	Neutral
+Mother	you know what that is .
+Mother	don't whisper sweetheart .
+Mother	what is that ?
+Mother	hm: ?
+Gina	I don't wanna talk .
+Mother	you don't wanna talk ?
+Mother	why not ?
+Mother	oh come on now , let's talk .
+Mother	let's say pumpkin .
+Gina	yeh .
+Mother	say pumpkin !
+Gina	pumpkin .
+Mother	well put an x [the alphabetical letter] on it .
+Mother	okay , very good .
+Mother	alrightie ,   , we have two cars and one what .
+Gina	&fwa .
+Mother	Gina , Amye wants to record your talking , not your whispering .
+Mother	so please talk like you would to mommy normally .
+Mother	okay .
+Gina	oh !
+Mother	very good .
+Mother	which one of those three vehicles is the smallest ?
+Gina	&-um , a little  one or this one ?
+Mother	a little one .
+Gina	this one .
+Mother	look at these two .
+Mother	which one of those is the smallest ?
+Mother	this one is smaller than that one ?
+Mother	mm . I don't think so .
+Mother	okay .
+Mother	well , let me show you something .
+Mother	you see his purple car ?
+Mother	that purple car is smaller so we would put a x [the alphabetical letter] on that one .
+Mother	this green car is bigger .
+Mother	but they're so close it's kind of hard to tell , isn't it ?
+Mother	alright , let's look at these three objects .
+Mother	tell me what they are .
+Mother	what's that ?
+Gina	&-um , Candyland .
+Mother	it looks like Candyland , doesn't it ?
+Mother	it's a candy cane but we have candy canes in Candyland .
+Mother	what is that ?
+Gina	ice cream !
+Mother	right .
+Gina	oh boy .
+Mother	and that is +...
+Mother	do you know what that is ?
+Gina	no .
+Mother	what does it look like ?
+Gina	cup .
+Mother	a cup ?
+Gina	yeh .
+Mother	yeh , it could be a cup upside down , or either a pocketbook , or a
+Gina	yeh .
+Mother	of those three objects , which one is the smallest ?
+Gina	this one is little , and you hafta make the x [the alphabetical letter] on the little one .
+Mother	that's right !
+[ANNOTATION]	Two people are talking about a small object.	Entailment
+Mother	okay .
+Mother	alright , here we have +...
+Mother	that's a book about shapes .
+Gina	yeh .
+Mother	what's that ?
+Gina	Teddy bear .
+Mother	that's not a teddy bear , you booger .
+Mother	what is that ?
+Gina	Wabbit .
+Mother	rabbit .
+Mother	and this is a horse shoe .
+[ANNOTATION]	A mother is talking to her son.	Contradiction
+Gina	yeh .
+Mother	okay , which one of those three objects is the smallest ?
+Mother	very good , what are you gonna do to it ?
+Mother	okay .
+Mother	what are these ?
+Gina	ah !
+Gina	choo_choo trains  !
+Mother	choo_choo trains .
+[ANNOTATION]	Someone wants to know which object is the smallest.	Entailment
+Mother	okay , put an x [the alphabetical letter] over the choo_choo train that's the smallest .
+Gina	what choo_choo train  is the smallest ?
+Mother	you look at them and tell mommy .
+Gina	we have big choo_choo trains  .
+Mother	mhm .
+Mother	we have big choo_choo trains and we have little choo_choo trains .
+Gina	where little choo_choo trains  ?
+Mother	you tell me .
+Gina	I don't know .
+[ANNOTATION]	Two people are talking about cars.	Contradiction
+Gina	you tell me .
+Mother	is this one little ?
+Gina	no .
+Mother	is that one little .
+Gina	yeh .
+Mother	okay !
+Mother	very good .
+Mother	&aw , you're getting so good with your x [the alphabetical letter]-s .
+Mother	here we have four animals .
+[ANNOTATION]	A little girl knows which animal is the smallest.	Neutral
+Mother	you tell me what they are .
+Mother	what's that ?
+Gina	that's a dog , a kitty cat , a chicken .
+Mother	that's the chicken , and what's that ?
+Gina	I don't know , a goat .
+Mother	a goat ?
+[ANNOTATION]	Two people are talking about animals.	Entailment
+Mother	well , it kinda looks like a goat and it looks like a horse , or a
+Mother	well out_of those four animals which one is the smallest ?
+Gina	this  one is red , and it has little .
+Mother	alrightie , and what is that one ?
+Gina	chicken .
+Mother	okay , very good .
+Mother	alright , we finished that page .
+Mother	put that crayon back in that box and let's do something else .
+Mother	let's do Grover's wish book , unless you'd rather play old maids .
+Mother	which would you rather do , play old maids ?
+Mother	do Grover's wish book .
+Gina	this  one .
+Gina	hafta take all these things out .
+Mother	okay .
+Mother	that's the tiger right ?
+Gina	yeh .
+Mother	okay .
+Mother	the tiger goes right there .
+Mother	yeh , that's where he goes .
+Gina	do you have another tiger ?
+Mother	no .
+Mother	and here's Grover and the chipmunk .
+Gina	wonder where he go ?
+Mother	he goes right there .
+Gina	oh .
+Mother	and here's Grover wishing that he was a king .
+Gina	where does he go ?
+Gina	where does he go ?
+Mother	he goes right there .
+Gina	oh .
+Mother	this is Grover wishing +...
+Mother	what ?
+Gina	that he was a flower .
+Mother	that he was a flower .
+Gina	where does it go ?
+Mother	right there .
+Mother	it's kinda hard to tell where these go .
+Gina	yeh .
+Mother	this one goes on this page here .
+Gina	oh .
+Mother	and this is Grover wishing that he was a Spaceman , flying on the
+Mother	flying around the moon .
+Mother	I think that's the one we lost .
+Mother	okay , he goes on that page .
+Mother	can you figure out where he goes on that page ?
+Gina	I know he go this way .
+Mother	I'll get it .
+Gina	here .
+Mother	and this is Grover wishing that he was a what ?
+Gina	fish .
+Mother	a fish .
+Gina	where do the fish go .
+Gina	like this ?
+Mother	mm , yeh .
+Mother	like that .
+Mother	and this is Grover wishing that he was a bird +...
+Gina	where do +...
+Mother	right there .
+Mother	and this is Grover wishing that he was a cowboy in a what ?
+Mother	a rodeo .
+Gina	okay , where do it go ?
+Mother	mm , right there .
+Mother	this is Grover wishing that he was the captain of a what ?
+Gina	captain .
+Mother	captain of a +...
+Gina	boat !
+Mother	very good .
+Mother	a ship .
+Gina	ship .
+Mother	ship is a big boat , isn't it ?
+Gina	yeh .
+Gina	go here ?
+Mother	no , it doesn't have a hand .
+Mother	it goes over here .
+Gina	oh , this  ?
+Mother	yeh , this one goes there .
+Mother	that's right .
+Mother	we hafta turn it until it fits .
+Mother	and this is Grover wishing that he was a runner .
+Gina	where do it go ?
+Mother	oh , you oughta be able to tell where it goes .
+Mother	and this is Grover wishing that he was a disco dancer .
+Mother	okay , no .
+Mother	alright there .
+Gina	no we're missing a baseball player .
+Mother	yeh , I know that's the one you lost .
+Mother	remember ?
+Mother	I don't know where we lost it .
+Mother	somewhere in Daddy's car when we were going on our ski trip .
+Gina	yeh .
+Mother	remember when we went on our ski trip ?
+Mother	who played this game with you in the back seat .
+Gina	Marta .
+Mother	Marsha did .
+Mother	that's right .
+Mother	okay .
+Mother	in this page Grover says I wish I were the fiercest what in the
+Gina	tiger .
+Mother	tiger , or lion !
+Mother	roar .
+Mother	put the tiger somewhere .
+Gina	I put the tiger here .
+Mother	you gonna put him on top of that tiger ?
+Mother	what's that tiger's name .
+Gina	mm , Himbay [?] .
+Mother	and his name is what ?
+Gina	I don't know .
+Mother	Grover !
+Gina	yeh .
+Mother	Grover .
+[ANNOTATION]	The tiger's name is Richard	Contradiction
+[ANNOTATION]	The tiger is of a small size.	Neutral
+Mother	and here Grover says , I wish I were as small as a chipmunk .
+Mother	chipmunks are little things that run around on the ground and up
+Mother	little furry animals .
+Mother	and that's Grover as a chipmunk !
+Mother	put him somewhere on that page .
+Mother	you gonna make him run up the tree ?
+Mother	Grover .
+Mother	what do you think that he's wishing he was gonna be in this
+Mother	I wish I were a what ?
+Gina	king .
+Mother	very good !
+[ANNOTATION]	Chipmunks are very small	Entailment
+[ANNOTATION]	Chipmunks are smaller than elephants.	Entailment
+Mother	a king .
+Mother	a king with a castle .
+Mother	that's the castle .
+Gina	I put it .
+Mother	we haven't played this one in a long time , have we ?
+Gina	huh ?
+Mother	this is our traveling book .
+Gina	yeh .
+[ANNOTATION]	Is there a queen with the castle too?	Neutral
+[ANNOTATION]	The king doesn't have a castle.	Contradiction
+Mother	alright .
+Mother	I wish I were a beautiful +...
+Gina	flower !
+Mother	flower .
+Mother	very good .
+Gina	whee .
+Gina	flower .
+Mother	where you gonna put the flower ?
+[ANNOTATION]	The flower is very pretty	Entailment
+[ANNOTATION]	The mother doesn't want to be an animal.	Entailment
+Gina	this right here .
+Mother	okay , you're gonna put it on top of that other flower .
+Gina	that's where it goes !
+Mother	here Grover says , I wish I could walk on the moon .
+Gina	on the moon !
+Gina	here ?
+Mother	no , that's one of the planets .
+Gina	right here ?
+[ANNOTATION]	Does that flower go in a vase?	Neutral
+[ANNOTATION]	Someone want to walk on the Sun.	Contradiction
+Mother	see all these craters ?
+Mother	that's the moon .
+Mother	this rocket is on top of the moon so this right here is the moon .
+Mother	you see the moon , the little thing up in the sky .
+Mother	but this is a close up picture of the moon .
+[ANNOTATION]	The craters are formed with asteroids	Neutral
+[ANNOTATION]	The moon has craters on its surface.	Entailment
+Mother	this right here is the moon .
+Mother	it doesn't look like what we normally see .
+Mother	but where is Grover being a +...
+Father	draw them one at a time .
+Father	okay ?
+Father	count them as you draw them .
+Gina	one , two three , four , five .
+Father	okay , I get five .
+Gina	do the rest of them .
+Father	well you get five , I get five .
+Father	where are the double elephants ?
+Father	who goes first put them all down .
+Gina	xxx you go first .
+Father	me go first ?
+Gina	yeh .
+Father	alright , I'm gonna play the elephant .
+Father	your turn .
+Gina	what do I have ?
+Father	I don't know .
+Father	what do you have ?
+Gina	I put the monkey down .
+Father	yeh , but you can play something else , can't you ?
+Gina	xxx .
+Father	why don't you play your elephant ?
+Father	play your elephant .
+Father	come on , play your elephant and let's go .
+Father	you're playing too slow !
+Father	let's get this game moving !
+Father	&aw , what am I gonna play ?
+Gina	xxx .
+Father	hm: ?
+Gina	you have a rabbit  !
+Father	do I have a rabbit ?
+Father	I don't have a rabbit .
+Father	I don't know .
+Father	can I play anything ?
+Father	hm: ?
+Father	play the monkey ?
+Father	okay , your turn .
+Father	what's at ?
+Father	what is at ?
+Father	okay , what can I play ?
+Father	can I play ?
+Father	I don't believe I can play .
+Father	what do I hafta do ?
+Gina	draw .
+Father	hm: ?
+Gina	draw .
+Father	draw , okay .
+Father	can I play that ?
+Gina	yeh .
+Father	where ?
+Father	okay , you play .
+Father	your turn .
+Father	what you gonna play ?
+Father	what you playing ?
+Father	what is at ?
+Gina	tiger .
+Father	tiger , it looks like a lion to me .
+Gina	lion .
+Father	get your cards together .
+Father	gosh , Gina .
+Gina	what ?
+Father	I don't know if I can play .
+Gina	I don't either .
+Father	why are you whispering ?
+Father	huh ?
+Gina	Amy's asleep .
+Father	Amy's asleep ?
+Father	no , Amy's not sleep .
+Gina	xxx .
+Father	no , you don't hafta whisper .
+Father	you can talk loud .
+Gina	oh !
+Father	that'll make you happy to talk loud , right ?
+Gina	hm: ?
+Father	that makes you happy when you can talk loud , doesn't it ?
+Father	can you play ?
+Father	sure !
+Father	no , you don't hafta draw .
+Father	what was that ?
+Father	there you go .
+Father	two cards left !
+Father	think I'll play the racoon .
+Father	you got one card left ?
+Father	oh_my_goodness !
+Gina	I got one card .
+Father	what are you whispering for ?
+Gina	because I hafta .
+Father	well , you don't hafta whisper !
+Father	wanna play touch and tell ?
+Father	it's right behind you .
+Father	hm: ?
+Father	which one do you wanna play .
+Gina	this one .
+Father	what is at ?
+Father	which one is that .
+Gina	I don't know .
+Father	is that the +...
+Father	that's alphabet fun .
+Gina	oh .
+Father	let's see if I remember how to get into this thing .
+Gina	yes you do .
+Gina	xxx .
+Father	&-uh , it slides down one way doesn't it ?
+Father	there .
+Father	leave those in .
+Father	which one ?
+Gina	this one ?
+Father	oh , you hafta push hard , don't you .
+Father	I think , now , this is the wrong way .
+Father	turn it around .
+Father	mhm .
+Gina	okay .
+Father	do you wanna play this one ?
+Gina	no .
+Father	it's too easy ?
+Father	which one do you wanna play ?
+Father	which one did you put in there ?
+Gina	that one .
+Father	alphabet fun .
+Father	we hafta put in the alphabet .
+Gina	the alphabet .
+Father	there it is .
+Father	numbers .
+Gina	no , I wanna play this one .
+Gina	I want , I have play this  one .
+Father	wanna play that one ?
+Gina	no , I gonna play this one .
+Father	wanna play the hi side ?
+Gina	yeh .
+Father	okay we hafta put this one in , then .
+Gina	yeh .
+Father	okay we hafta put this one in , then .
+Gina	huh ?
+Father	then we hafta put in a number .
+Gina	xxx .
+Father	excuse me , Mr Tell .
+Gina	why was you saying Mr Tell .
+Father	Mr Touch .
+Gina	huh ?
+Father	Mr Touch .
+Father	I called him Mr Tell .
+Gina	why did you ?
+Father	because !
+Father	his name is Mr Touch and Tell .
+Gina	yeh .
+Father	so I call him Mr tell .
+Father	you don't like that ?
+Father	alright .
+Father	are we ready to go ?
+Gina	yeh .
+Gina	I want ta . a number .
+Gina	I wait till he says .
+Father	you gonna wait till he says pick out one ?
+Father	what is at ?
+Gina	number twenty one .
+Father	oh , number twenty one has a horse by it .
+Father	well , maybe punch the number that's by the horse .
+Gina	huh ?
+Father	punch the number that's right by the horse .
+Father	see the horse ?
+Father	punch the number that's next to it .
+Gina	where is i [the alphabetical letter] .
+Father	that's twenty one right there .
+Gina	when he gonna take it Daddy ?
+Father	I don't know .
+Father	he just asked you where the number sixteen is .
+Gina	well where is number sixteen ?
+Father	it's right under the mouse .
+Gina	right under mouse . right here ?
+Father	under the mouse .
+Gina	where is under mouse ?
+Father	you see the mouse ?
+Gina	yeh .
+Father	you see the number under the mouse ?
+Gina	no .
+Father	where is the number under the mouse ?
+Gina	I don't know .
+Father	why don't you point to one and see if it's right ?
+Father	you hafta punch it .
+Father	very good .
+Father	fifteen !
+Gina	where fifteen ?
+Father	fifteen is underneath the pig .
+Gina	right here ?
+Gina	where number twenty one ?
+Father	number twenty one was by the horse .
+Gina	where number twenty seven ?
+Father	twenty seven is above the beach ball .
+Gina	where the beach ball ?
+Gina	right here ?
+Father	that's the beach ball .
+Father	twenty seven is above the beach ball .
+Father	you found the number below the beach ball .
+Father	you needta find the number above the beach ball , is twenty seven .
+Gina	oh no !
+Father	that number is next to the beach ball .
+Father	try one above the beach ball .
+Gina	where is it ?
+Father	well you're getting close !
+Father	try again , you were real close that time !
+Gina	oh !
+Father	it's above the beach ball .
+Father	twelve .
+Gina	where twelve ?
+Father	twelve is above the mouse .
+Father	it's above the mouse .
+Gina	where ?
+Father	that's below .
+Father	remember , where twenty seven was ?
+Father	twenty seven was above the mouse ?
+Gina	right here .
+Father	look on top of the mouse .
+Gina	top of mouse ?
+Father	yeh .
+Gina	right here .
+Father	yeh !
+Father	that means the same thing as above .
+Gina	when's he gonna say this one ?
+Gina	when he gonna say this one ?
+Father	I don't know .
+Father	he just asked for number twenty two .
+Gina	when he gonna ask for a bear ?
+Father	he asks for numbers on this one , doesn't he ?
+Gina	yeh .
+Father	twenty two is right below the pig , the piggy bank .
+Gina	where piggy bank ?
+Father	I don't know .
+Father	you see it ?
+Father	twenty two is right below the piggy bank .
+Gina	Piggy bank ?
+Gina	here ?
+Father	mhm .
+Father	it must be the other one .
+Father	right below the piggy bank .
+Gina	where ?
+Father	try the other one .
+Father	no , the one below it .
+Father	below , not blow .
+Father	below .
+Gina	what below  ?
+Father	below .
+Father	say below .
+Father	know what below means ?
+Gina	pig !
+Father	you didn't push it hard enough .
+Father	wanna play another one of these ?
+Gina	yeah .
+Father	let's find one .
+Father	let's do the alphabets .
+Gina	yeah .
+Gina	want the one that have one of these  .
+Father	okay .
+Father	you gonna do it ?
+Gina	&-uh oh .
+Gina	what did that mean ?
+Father	means be careful .
+Gina	why ?
+Father	means don't be so rough .
+Gina	and you were being rough  ?
+[ANNOTATION]	They are doing it together.	Neutral
+Father	yes .
+Gina	why were you ?
+Father	cause I was hurrying .
+Gina	huh ?
+Father	I was hurrying .
+Gina	why were you ?
+Father	I don't know .
+Father	I'd better slow down , hadn't I .
+[ANNOTATION]	They gonna do it.	Neutral
+Gina	okay .
+Gina	I'll find it .
+Father	you're not gonna press the letter .
+Father	you're gonna wait until him to ask something aren't you ?
+Father	do your abcs before he +/.
+Gina	a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] d [the alphabetical letter] .
+Father	that's good .
+Father	go ahead and do them .
+[ANNOTATION]	They do it together.	Entailment
+Father	he'll wait .
+Gina	a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] , a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] , a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] , a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] .
+Father	that's all you know ?
+Gina	a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] , a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] .
+Father	gosh , you don't know much .
+Father	I thought you knew all your abcs , and you don't know but a [the alphabetical letter] , b [the alphabetical letter]
+[ANNOTATION]	They are more understandable.	Neutral
+Father	can you sing that song ?
+Gina	a [the alphabetical letter] , b [the alphabetical letter] , c [the alphabetical letter] , d [the alphabetical letter] , e [the alphabetical letter] , f [the alphabetical letter] , h [the alphabetical letter] , h [the alphabetical letter] , a [the alphabetical letter] , j [the alphabetical letter] , k [the alphabetical letter] ,
+Gina	n [the alphabetical letter] , d [the alphabetical letter] , o [the alphabetical letter] , p [the alphabetical letter] , q [the alphabetical letter] , d [the alphabetical letter] , s [the alphabetical letter] , t [the alphabetical letter] , u [the alphabetical letter] , v [the alphabetical letter] , w [the alphabetical letter] ,
+Father	w [the alphabetical letter] what ?
+Gina	w [the alphabetical letter] , w [the alphabetical letter] , s [the alphabetical letter] , y [the alphabetical letter] , and z [the alphabetical letter] .
+Gina	now my abc .
+Gina	tell me what you think of me .
+Father	I think you better punch one of these , cause he asked you a
+Gina	a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] d [the alphabetical letter] e [the alphabetical letter] f [the alphabetical letter] g [the alphabetical letter] h [the alphabetical letter] i [the alphabetical letter] j [the alphabetical letter] k [the alphabetical letter] l [the alphabetical letter] m [the alphabetical letter] n [the alphabetical letter] o [the alphabetical letter] p [the alphabetical letter] abc
+Gina	here this go and her he come right now .
+Gina	this little lamb and I go +...
+Gina	he little boy .
+[ANNOTATION]	they are learning together	Neutral
+Father	that's a boy .
+Father	huh .
+Father	okay .
+Gina	he a brown .
+Father	he's brown , that's right .
+[ANNOTATION]	the boy is brown	Entailment
+Father	a brown teddy bear .
+Father	not hard .
+Father	punch one .
+Father	you missed it .
+Gina	king .
+Father	k [the alphabetical letter] for king .
+Gina	I play this  .
+Gina	I play .

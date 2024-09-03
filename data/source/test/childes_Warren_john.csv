@@ -1,0 +1,446 @@
+Father	where was it you got it ?
+John	at K_Mart .
+Father	how did you get it at K_Mart , did mom buy it for you , or what
+Father	how did you get it ?
+John	I got it with my own money .
+Father	where did you get your money ?
+John	from my allowance .
+Father	that's right !
+Father	how much allowance do you get ?
+John	fifty cents a week .
+Father	okay , so how much did the Spiderman cost ?
+John	about three dollars twenty eight .
+Father	so , how many weeks' allowance was that ?
+Father	can you figure that out ?
+John	seven .
+Father	that's exactly right !
+[ANNOTATION]	the two agreed he used his seven weeks allowance to buy the Spiderman	Contradiction
+Father	well , why don't you tell me how you painted it and fixed it up ?
+Father	cause I didn't get in on that .
+John	good .
+Father	so just start with first , plus tell me how you did it .
+John	I did it good .
+Father	well , I know but tell me all the different things .
+John	for one thing , he's a super hero and he's not any kind of doctor .
+Father	&-uh , huh .
+John	0 .
+Father	well , did you have a spray can of paint to paint or .
+John	no , just a regular paint brush , I get everything , mixed up if I
+Father	&-uh huh .
+Father	well , tell me , I mean , what did you do ?
+[ANNOTATION]	the two agreed he painted it with paint brush	Entailment
+Father	did you have one paint brush .
+Father	or just tell me how you did it .
+John	I have one paint brush .
+Father	okay .
+John	I hadta wash it off when I wanted to do another color .
+[ANNOTATION]	the two agreed he has just one paint brush	Entailment
+Father	&-uh huh .
+Father	okay how many colors did you have ?
+John	four .
+Father	okay , where did you do it ?
+John	in the garage , of course .
+Father	why did you do it in the garage ?
+John	oh , one guess how I didn't get paint on the house .
+Father	&-uh huh .
+Father	well , that was thoughtful of you .
+[ANNOTATION]	the two didn't agree on why it is not good to paint in the garage	Contradiction
+Father	how long did it take you to do it ?
+John	less than xxx .
+Father	were you working pretty fast ?
+John	you better believe it .
+Father	okay well that was one of the things you bought with your allowance
+John	no , lets see .
+Father	how about some of your Starwars ?
+[ANNOTATION]	The two didn't agree on the time he used to paint	Contradiction
+John	I don't remember if I bought any of those with my allowance .
+Father	well , I think you probably did .
+Father	don't cover your mouth with your hand ya know because that might
+John	I'm not !
+Father	okay , that's better , well , what is that , a piece of paper you
+John	a map , a tornado .
+Father	ah !
+Father	would you kind of explain it to me .
+Father	I didn't understand it from before .
+[ANNOTATION]	they are uncle and nephew	Contradiction
+John	well , these houses with the lines on the outside is when the alarm
+Father	okay .
+John	and , these red dots on the path of the sound waves .
+Father	&-uh huh .
+Father	okay , so what happens ?
+John	well , when it gets to the end of the line this goes argh: goes
+Father	does that alert people that a tornado is coming or something ?
+John	&-uh huh .
+John	well , if they don't have a basement they get next to an inside
+Father	okay and why do they do that ?
+John	well , see , they got next to a window they may be killed by the
+Father	that's exactly right okay , now tell me the rest of it what else is
+John	airplanes circling the tornado would you believe ?
+Father	airplanes circling a tornado ?
+[ANNOTATION]	tornadoes are dangerous phenomena	Entailment
+John	&-uh huh .
+Father	okay why are they circling the tornado ?
+John	well , so they don't lose it .
+John	&ha .
+Father	well , then is that part of the weathermen , what they do ?
+[ANNOTATION]	john is scared of thunderstorm	Neutral
+John	ya .
+Father	why do they not wanna lose it ?
+John	well , like if was over Six_flags might of escape and then they
+Father	&-uh huh .
+Father	that's good .
+Father	I didn't even think about that .
+Father	speaking of Six_flags , we're going to hafta pick us a weekend to
+[ANNOTATION]	it's currently raining	Neutral
+John	why would you wanna talk about that in this ?
+Father	well , you know , we just talk about different things , but but you
+John	yes , and I think that deal is fair .
+Father	what was the deal , I wanna see if you remember .
+John	that I would only hafta ride one of the things with you that I
+Father	which one ?
+John	well , you , the one you wanted to , which was the scream machine .
+Father	alright , you didn't act afraid when you rode the scream machine
+John	well , I thought it was scary .
+Father	do you remember who you rode it with , ya , I was sitting next to
+[ANNOTATION]	the scream machine makes a noise everyone in the village will hear	Neutral
+John	Matthew , I've forgotten .
+Father	ya , he went one time , but the time we went and spent the day , it
+Father	do you remember what happened at the end of that day when we left
+John	what ?
+Father	you boys had been out there all day we started at ten o'clock , and
+[ANNOTATION]	john wants to know what happened	Entailment
+John	what ?
+Father	you all crawled under the floor boards .
+Father	and what happened ?
+John	fall asleep .
+Father	that's exactly right .
+John	both of us .
+Father	&-uh huh , sound asleep , I got you back to the Walkers' and Mrs
+John	well , then what did they do with Billy ?
+Father	what do you reckon ?
+John	put him to bed .
+Father	that's right and you , there's one little boy who didn't wake up .
+John	how did they know Billy woke up ?
+Father	well , I was there .
+Father	Mrs Walker hadta come get him .
+John	well , how did he get out_of the car ?
+John	he was asleep .
+Father	she picked him up , woke him up .
+John	who woke me up ?
+Father	as I remember , you didn't wake up .
+Father	I just let you sleep till we got home .
+John	what time did we get back ?
+Father	it was before dark because it was , ya know , warm weather .
+John	well , what time is xxx do you think it was ?
+Father	well , it was probably seven . seven thirty , something like that
+John	mm: .
+Father	but looking ahead to when we go again , what do you think you wanna
+John	eating popcorn , candy .
+Father	no , I mean as far as rides ?
+John	well , I surely won't ride the MB .
+Father	the what ?
+Father	oh , the mind , the what ?
+John	the mind bender .
+Father	okay , but what will you ride , that's what's important .
+John	important ?
+Father	&-uh huh .
+John	what's important to me is not riding the mind bender .
+Father	alright what will you ride ?
+John	well , would you believe an airplane .
+Father	a , yep , what else ?
+John	that , barrel [?] ride .
+Father	that was fun , wasn't it ?
+Father	what else ?
+John	mm .
+Father	how about the Dahlovega mine car ?
+Father	do you remember that one ?
+John	mm .
+Father	you liked that one pretty good , that was kind of like the xxx at
+John	I don't remember it , but I really liked it .
+Father	okay , how about the bumper cars ?
+John	pumper cars ?
+Father	do you remember those ?
+John	well , it might've been bumper heads .
+Father	might've been .
+John	which wouldn't be as fun as bumper cars .
+Father	&-uh huh .
+Father	what did you do in kindergarten today ?
+John	wouldn't you believe have a fun time ?
+Father	&-uh huh , but I mean , what did you do that was fun ?
+John	what did I do that was fun ?
+John	I had a fun time that was fun .
+Father	I know , but what did you , do any gymnastics ?
+John	no , I only have that on Wednesday .
+Father	well , what's today ?
+John	do you hafta ask me so easy questions ?
+Father	well , let me ask you some hard questions how much is nine plus
+John	that's not very hard . twelve .
+Father	well , I got a hard one you won't be able to answer how much is
+John	fifteen .
+Father	well , let me think of a harder one than that .
+Father	how much is five plus ten plus five ?
+John	twenty .
+Father	I know one you can't get .
+John	what ?
+Father	how much is five times five ?
+John	twenty five .
+Father	well , how much is six times five ?
+John	thirty .
+Father	well , I'm going to hafta get an even harder one than that .
+Father	how much is thirty minus fifteen ?
+John	fifteen .
+Father	well , we better get into more , higher math , then , think so ?
+John	&-uh huh .
+Father	well , let's see you've answered all the questions that I've asked
+Father	let's see if you can ask some questions , ask me some questions
+John	what's a thousand times a thousand times a thousand ?
+Father	that would be a million times a thousand .
+Father	is that a billion ?
+John	I'm not telling because I don't know .
+Father	haha .
+Father	I think it's a million .
+John	what's a thousand times a thousand times a thousand times a
+Father	well , that's getting kind of ridiculous , let's answer one that I
+John	what's a billion times a thousand ?
+Father	goodness , I don't know , I know something that you've forgotten .
+John	what ?
+Father	because we haven't done it in so long .
+John	what ?
+Father	I wanna see if you can remember how to name the presidents starting
+John	Dad .
+Father	have you forgotten them ?
+John	no .
+Father	well , let me see .
+John	why don't you just ask me some questions about them if I get
+Father	well , ya see , I don't know as many of the answers as you do , but
+John	0  .
+Father	now talk in your normal voice .
+John	I hate to do this in front of two people .
+Amye	that's okay , first , I needta get some background like where you
+Mother	okay , John , tell me about your lego set here , what all have you
+John	well , everything on here .
+Mother	well , what is it ?
+Mother	what is this over here ?
+John	&-um , spaceship .
+Mother	well , what does it do .
+Mother	would you show me how it works ?
+John	it won't , it won't shoot off , what else ?
+Mother	where is it going ?
+John	nowhere right now .
+Mother	where is it going to go ?
+John	nowhere later .
+Mother	have you got a launch ?
+John	unless it hasta +...
+Mother	if it launched off though .
+Mother	it wouldn't be going anywhere ?
+John	ya , it would be , it would just be off the base .
+Mother	oh , okay , and what are these people doing in here is this one
+John	no , he's just resting .
+Mother	&-uh , huh .
+Mother	is this a space car ?
+John	no .
+Mother	no .
+John	help see if an enemy was blocking it over here , and they needed to
+Mother	did they get away from their enemy ?
+John	&-uh huh , and they get up in the sky and find him , then they +"/.
+John	+" you know what .
+John	him .
+Mother	they blast him ?
+John	&-uh huh .
+Mother	I see .
+John	or her , or whatever .
+Mother	is this the radar ?
+John	there's three of them .
+Mother	tell me what they do .
+John	I don't know , . hey , who put on like this ?
+Mother	I don't know .
+Mother	I think you did .
+John	I didn't . Molly , I think I do know .
+Mother	I don't think Molly knows how to work it .
+John	David , &-um , Whitebine , he's bad enough to do it this way .
+John	he doesn't even have any lego .
+Mother	what you show me here . over here get that thing over here .
+John	you seen it , you seen it .
+Mother	wanna put some of your people in here ?
+John	no , I think that's for +...
+Mother	show me how it works .
+John	about +...
+Mother	for four year olds , &-uh ?
+Mother	what did you all do at kindergarten today ?
+John	well , I almost fell asleep .
+Mother	why ?
+John	rest time .
+Mother	at rest time , you must've been playing hard on the play+ground .
+John	playing fast .
+Mother	what were you all playing ?
+John	well , we were chasing each_other as usual .
+Mother	is this any particular kind of game ?
+John	what ?
+Mother	any kind of particular game you were playing ?
+John	no .
+Mother	where you chase each_other .
+John	&-um , we were having races .
+Mother	were the girls playing too , were ya all running away from the
+John	well sort of , little bit , we were chasing , we were chasing
+Mother	well , did you catch them ?
+Mother	what did you do if you caught them ?
+John	&-um , we would let them go .
+Mother	oh .
+Mother	okay you all play any more soccer ?
+John	yes , we did yesterday but not today .
+Mother	whose team were you on ?
+John	Matthew's .
+Mother	who else ?
+John	Joel's .
+Mother	you all keep score ?
+John	yes .
+Mother	who won ?
+John	&-um , by today , I think we did play today , by today , Wyatt's
+Mother	have you learned how to kick a goal yet ?
+John	yes .
+Mother	have you made any points ?
+John	&-uh huh .
+Mother	good .
+John	I only made one point .
+Mother	&-uh huh .
+Mother	have you learned how to block it so_that somebody else doesn't
+John	no , we're not allowed to do that .
+Mother	oh , you're not ?
+John	someone might get hit in the head .
+Mother	oh .
+Mother	okay , those are the rules in kindergarten , huh ?
+John	&-uh huh .
+Mother	okay , well , you hafta play by the rules , don't you ?
+John	for sure .
+Mother	well , tell me what you all do in Sunday school .
+John	why don't you ask ?
+Mother	since Mommy knows your teacher .
+John	why don't you ask her ?
+Mother	because , I'm gonna ask you .
+John	ask her .
+Amye	I wasn't there Sunday , John .
+John	well , when were you there ?
+Amye	three weeks ago .
+John	well , then , why don't you tell her about that part ?
+Amye	you weren't there .
+John	what do you mean I wasn't there , three weeks .
+Amye	you weren't there the last time I was there .
+Mother	that must have been the night you spent the night at Grandmommy and
+John	well , the time before that , or is that getting too far back to
+Mother	was that the Sunday you made valentines ?
+John	I don't really know .
+Mother	what are you working on now , John ?
+John	anything that I am interested in .
+Mother	I mean right now here on your lego set , are you rearranging it ?
+John	ya .
+Mother	building something else .
+John	&-um . to my , until my mind says yes , that's right .
+Mother	did you and Daddy talk about your tornado nap awhile ago ?
+John	yes .
+Mother	did you ?
+Mother	oh , you already talked about it .
+Mother	okay .
+John	now what can I talk about ?
+Amye	well , you can go ahead and start playing that game if you wanna .
+Mother	okay , which game do you wanna play ?
+John	well , the one that we just got out .
+Mother	well , we could work on your activity book .
+Mother	you wanna do something in your activity book ?
+Mother	some of those word games .
+Mother	well , why don't we do some of those that would be better .
+John	ya , this this this +...
+Mother	okay , okay , we're going to need a pencil you got a pencil , John
+Amye	I don't know if I can hear you .
+Mother	okay , an extra pencil , please .
+Amye	I only have a pen .
+Mother	that oughta work .
+Amye	okay .
+Mother	okay John .
+John	. down here .
+Mother	okay , the X_man fill in . is that what we're going to do ?
+John	ya .
+Mother	okay , why don't you read me the directions and I'll see what we're
+John	I did , I did .
+Mother	okay , ah , this is like the cross+word puzzle right you hafta
+John	yes .
+Mother	okay can you read them ?
+John	X_man .
+Mother	okay , then so we hafta find the place where that's going to fit in
+John	four .
+Mother	okay .
+John	okay , hold it .
+John	do they hafta go in with another word ?
+Mother	&-uh huh , makes like a cross+word puzzle .
+John	four .
+Mother	this is a different kind of cross+word puzzle .
+John	so where would it go ?
+Mother	well , we hafta see how many words have four spaces in them and I
+John	where ?
+Mother	can you find it , look around and see , it's going down .
+John	here .
+Mother	no , see , that's a whole word right there that'd be too big .
+Mother	what about right there ?
+John	that wouldn't hook up with another word .
+Mother	yeah , but it will when we get them all filled in , see , they're
+Mother	see , in this kind of cross+word puzzle they don't give you the
+Mother	okay well , you can check that one off .
+John	do you mean like this ?
+Mother	right , just so you know you did it okay , now pick another word
+John	storm .
+Mother	okay , now we're going to hafta look around for a [the alphabetical letter] .
+John	five letters , I think I see one .
+Mother	that's right .
+John	right here .
+Mother	and what does it end in ?
+John	m [the alphabetical letter] .
+Mother	okay that must be it okay .
+John	there's storm .
+Mother	okay there's one more with five letters .
+John	what does it say ?
+Mother	that's teens .
+John	what does teens mean ?
+Mother	that would be like if you're age thirteen to nineteen , you would
+Mother	a teenager .
+John	well , why does it have that ?
+Mother	I don't know why that's in there .
+Mother	it looks like a kind of strange word for superheroes , doesn't it ?
+John	well , maybe some of them are in their teens .
+Mother	maybe so , but if you look around , there will be one more word
+John	one more letter .
+Mother	one more word a five letter word , can you find where that is ?
+John	here .
+Mother	&-uh huh .
+John	teens .
+Mother	okay , well , all those four have seven letters , so_that might be
+John	one , two , three , four , five , six , seven .
+Mother	okay , that's seven letters so that'll be a hint .
+John	would that be the bottom one ?
+Mother	it could be either that one or that one , couldn't it ?
+Mother	well , let's see where the other seven letter ones are .
+[ANNOTATION]	six letter ones would work	Neutral
+Mother	well , it's going to be hard I tell you what . let's figure out
+John	maybe this one .
+Mother	it will give you a hint , find a word down there that starts with a
+Mother	one , two , three , four , five , six , seven . it has eight
+Mother	there's only one word with eight letters , isn't there ?
+John	how do you spell that ?
+Mother	that's Colossus .
+Mother	is that a person in superheroes ?
+John	I don't know .
+Mother	you never heard of that one ?
+John	why won't you write it down ?
+Mother	okay , I'll write that one down .
+Mother	see , then , this is going to give you a hint &-um , the other
+Mother	one , two , three , four , five , six , seven .
+[ANNOTATION]	the hint won't help to solve it	Neutral
+Mother	okay , so one is here , seven letter words that will go in there .
+Mother	which one would that be ?
+John	&-um .
+[ANNOTATION]	the answer must be seven letters	Entailment
+Mother	the fourth letter hasta be the f [the alphabetical letter] , doesn't it ?
+John	six .
+Mother	okay , what word is this ?
+John	I can't read it .
+Mother	Banshee . is that in superheroes ?
+Mother	I don't know about that .
+[ANNOTATION]	the sixth letter can't be h	Entailment

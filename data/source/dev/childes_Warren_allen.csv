@@ -1,0 +1,554 @@
+Allen	w [the alphabetical letter] .
+Mother	that's an a [the alphabetical letter] .
+Allen	w [the alphabetical letter] .
+Mother	no , it's not a w [the alphabetical letter] .
+Mother	that's a w [the alphabetical letter] .
+Allen	this  a w [the alphabetical letter] .
+Mother	what color is that ?
+Allen	that's  a w [the alphabetical letter] .
+Mother	what color ?
+Allen	w [the alphabetical letter] !
+Mother	what color ?
+Allen	what's that  ?
+Mother	you're not listening .
+[ANNOTATION]	The mother is not listening because she's cooking	Neutral
+Mother	what color is this ?
+Allen	that's a puzzle .
+[ANNOTATION]	It's a crossword puzzle	Contradiction
+[ANNOTATION]	Allen is not sure of the color.	Neutral
+Mother	I know it's a puzzle , but what color is it ?
+Allen	is a puzzle .
+Allen	where does his head go ?
+Allen	I took his head off , mom !
+Mother	here , turn it right side up so you can tell .
+Mother	tell me what color that is .
+Allen	that's  a Donald duck .
+Mother	Donald duck ?
+Mother	is that purple ?
+Allen	that's Donald duck .
+Mother	is it green ?
+Allen	this  is yellow  .
+Mother	it's yellow .
+[ANNOTATION]	It's a yellow shirt	Neutral
+[ANNOTATION]	Mom and son know that it is a puzzle.	Entailment
+Mother	what color is that ?
+Allen	that's  green !
+Mother	and what color's that ?
+Allen	this  is blue !
+Mother	what color is that ?
+Allen	this  is blue and +...
+Mother	red .
+[ANNOTATION]	Allen's mum says that the last item is also red	Entailment
+[ANNOTATION]	Mother wants to know the color of an object.	Neutral
+Allen	red .
+Mother	what color is your Dukes of Hazzard car ?
+Allen	nope !
+Allen	xxx .
+Mother	that's yellow .
+Allen	that's  yellow  .
+Allen	what is that  ?
+Mother	can you spell your name out with these letters ?
+Mother	that's an o [the alphabetical letter] .
+Allen	that  is b [the alphabetical letter] .
+[ANNOTATION]	It's a yellow car	Neutral
+[ANNOTATION]	Dukes of Hazzard car is red.	Entailment
+Mother	d [the alphabetical letter] .
+Allen	tickle .
+Mother	don't tickle the letters !
+Mother	you'll make them giggle !
+Mother	what's that .
+[ANNOTATION]	The letters will cry if you tickle them	Contradiction
+[ANNOTATION]	Mother doesn't want her son to tickle d.	Contradiction
+Allen	that's puzzle .
+Mother	yeh , but what is that picture ?
+Allen	that's picture .
+Mother	of what ?
+Allen	xxx , mom .
+Mother	is that grass ?
+Allen	that's grass .
+Allen	w [the alphabetical letter] .
+Allen	that's w [the alphabetical letter] .
+Mother	there's w [the alphabetical letter] .
+Allen	that's w [the alphabetical letter] .
+Mother	what are these ?
+[ANNOTATION]	Mother does not have a picture of a puzzle.	Contradiction
+Mother	where do these go ?
+Allen	that's  go , that's  foot , mom .
+Mother	well where does it go on the puzzle ?
+Allen	it goes +...
+Mother	why don't you put this where it goes for me , please ?
+Mother	will you put that in its place please ?
+Mother	thank_you .
+Allen	that  go .
+Mother	thank_you .
+[ANNOTATION]	The piece Mother just gave Allen was a foot.	Entailment
+Allen	that  goes .
+Mother	that goes ?
+Mother	can you make it fit in the hole ?
+Allen	make hole .
+Allen	that  , here .
+Mother	thank_you very much .
+Allen	there  .
+Mother	what is that pink thing ?
+[ANNOTATION]	The pink thing fit in the hole.	Entailment
+Allen	that's  , this is , that's  ants !
+Mother	that's an ant or is it a worm ?
+Allen	it's a worm  .
+Mother	it's a worm .
+Allen	a worm  .
+Allen	where's is: , that  go ?
+[ANNOTATION]	Mother and Allen are looking at ants.	Entailment
+Mother	&-uh oh !
+Mother	where's the rest of the puzzle ?
+Allen	gone , Ma !
+Allen	&-uh  oh mom .
+Mother	oh , very good !
+Mother	that's Mickey mouse !
+Allen	that's  Donald duck !
+Mother	Donald duck .
+[ANNOTATION]	Mother and Allen did not see Donald duck.	Contradiction
+Mother	okay .
+Mother	I'm sorry .
+Mother	that's Donald duck .
+Mother	and what's this ?
+Allen	this  is a grass , mom .
+Mother	it's grass .
+Mother	it's big grass , isn't it ?
+[ANNOTATION]	Mother did not just see grass.	Contradiction
+Mother	and what'd you tell me this was ?
+Allen	it's a ant .
+Mother	nah , that's not what you told me it was .
+Mother	what'd you tell me that pink thing was ?
+Allen	ants .
+Mother	worm !
+Allen	ants .
+Mother	worm !
+Allen	ants !
+Mother	worm .
+Allen	ants .
+Mother	did you sing your song ?
+Mother	  . can we sing it ?
+Allen	no !
+Mother	okay .
+Mother	you like these letters ?
+Allen	I pick one ant . where head go mom ?
+Allen	where head go ?
+Allen	where's the head go , mom ?
+Mother	which xxx .
+Allen	xxx fast .
+Allen	wanna go fast , mom .
+Allen	won't go fast it go fast mom .
+Mother	it's going pretty fast .
+Mother	it goes around , doesn't it ?
+Allen	what's that ?
+Mother	it's a microphone .
+Allen	let me touch it .
+Mother	no , you're not sposta touch it .
+Mother	you're just supposed to look at it .
+Allen	let me talk with it .
+Mother	you talk to it .
+Mother	yeh .
+Mother	don't get too close !
+Mother	sing it a song .
+Mother	sing it a song .
+Mother	what songs do you know ?
+Mother	sing itsy bitsy spider .
+Mother	&-uh oh !
+Mother	let's do the puzzle again .
+Allen	&-uh , &-uh oh !
+Allen	&-uh oh mom !
+Allen	I'm gonna do his head mom .
+Mother	okay .
+Mother	you do his head .
+Allen	there  go .
+Allen	&-uh oh , you fix .
+Mother	there you go .
+Mother	that one's kinda hard .
+Mother	here .
+Mother	where do his feet go ?
+Allen	that's  his feet goes there  , no , that
+Mother	there you go .
+Mother	now what's that ?
+Mother	that's his belly .
+Mother	where does his belly go ?
+Allen	that  goes belly .
+Allen	that  goes +...
+Mother	right there .
+Mother	now where does his arm go .
+Mother	I forgot .
+Mother	do you remember where his arm goes ?
+Mother	here , I'll help a little bit .
+Mother	there you go .
+Mother	is that , is that where his arm goes ?
+Allen	arm goes right there .
+Mother	okay .
+Allen	xxx .
+Mother	what's that ?
+Allen	xxx .
+Mother	that's very good !
+Allen	where an udder one ?
+Mother	better put that worm up there .
+Allen	Mommy !
+Allen	Mommy !
+Allen	Mommy !
+Mother	yep .
+Mother	isn't the worm supposed to be talking to the duck ?
+Mother	why don't you put the worm so he can talk to the duck ?
+Mother	no you had that part right .
+Allen	that  .
+Allen	xxx .
+Mother	you wanted to finish this one , don't you  ?
+Mother	see if you can get it up there .
+Allen	no xxx .
+Mother	see if you can stack them up .
+Mother	can you stack them on top of each_other ?
+Mother	watch this .
+Mother	that's a k [the alphabetical letter] .
+Allen	that's k [the alphabetical letter] .
+Allen	want me to knock them down ?
+Mother	that's an i [the alphabetical letter] .
+Allen	i [the alphabetical letter] .
+Allen	want me to knock them down ?
+Mother	y [the alphabetical letter] .
+Mother	no , I don't want you to knock them down yet .
+Mother	now you can knock them down .
+Mother	okay , now you do it .
+Allen	no .
+Allen	no .
+Allen	y [the alphabetical letter] ?
+Mother	y [the alphabetical letter] .
+Allen	y [the alphabetical letter] .
+Allen	that  go . xxx where's w [the alphabetical letter] ?
+Allen	w [the alphabetical letter] .
+Allen	that w [the alphabetical letter] .
+Mother	no , here's the w [the alphabetical letter] .
+Allen	that w [the alphabetical letter] .
+[ANNOTATION]	The family plays a game.	Neutral
+Mother	that's w [the alphabetical letter] .
+Allen	that w [the alphabetical letter] .
+Allen	where's a xxx .
+Mother	that's an n [the alphabetical letter] .
+Allen	that's n [the alphabetical letter] .
+Allen	this w [the alphabetical letter] .
+Mother	no , no .
+[ANNOTATION]	The speakers know the letters of the alphabet.	Entailment
+Mother	that's a b [the alphabetical letter] .
+Allen	that's a b [the alphabetical letter] .
+Mother	no , that's an e [the alphabetical letter] .
+Mother	see the difference ?
+Allen	e [the alphabetical letter] .
+Mother	what's the difference ?
+Allen	knock em all down , mom .
+Mother	see the e [the alphabetical letter] is open ?
+Allen	e [the alphabetical letter] is [=? e [the alphabetical letter]-s] open ?
+Mother	and the b [the alphabetical letter] ?
+[ANNOTATION]	Allen thought the letter b was z.	Contradiction
+Mother	is it open ?
+Allen	is open ?
+Mother	what do you think ?
+Allen	open , mom .
+Mother	which one is open ?
+Allen	open .
+Mother	which one is open ?
+Allen	open !
+Mother	show me .
+Mother	which one is open ?
+Allen	open .
+Mother	point to the one that's open .
+Allen	&-uh oh xxx I knock em all down mom .
+Mother	I saw that .
+Mother	yeh .
+Allen	that  , that one goes , that goes .
+[ANNOTATION]	The mother wants to know the colour of the fruit.	Contradiction
+Allen	put together .
+Mother	put em together .
+Mother	what'd you do today ?
+[ANNOTATION]	Mother asks Allen what does he want to eat today.	Contradiction
+Allen	xxx .
+Mother	did you throw sand today ?
+Allen	whoa , mom !
+Mother	what did you do at school today ?
+Allen	whoa mom !
+Allen	b [the alphabetical letter] !
+[ANNOTATION]	Allen went to school.	Entailment
+Allen	b [the alphabetical letter] !
+Allen	b [the alphabetical letter] !
+Mother	d [the alphabetical letter] .
+Allen	d [the alphabetical letter] .
+Allen	what is  this  ?
+Mother	that's a b [the alphabetical letter] .
+Allen	a b [the alphabetical letter] .
+Allen	what is  that  , mom ?
+Mother	o [the alphabetical letter] .
+Allen	o [the alphabetical letter] .
+[ANNOTATION]	The letter that Allen was asking about is a q.	Contradiction
+Mother	what's that ?
+Allen	&-uh oh .
+Mother	what's that one ?
+Allen	it's w [the alphabetical letter] .
+Mother	that's right .
+Mother	that's a w [the alphabetical letter] .
+Allen	that goes xxx .
+Mother	what's that ?
+Allen	that's w [the alphabetical letter] .
+Mother	no .
+Mother	it's an e [the alphabetical letter] .
+[ANNOTATION]	Allen has been learning how to read at school.	Neutral
+Father	a new toy .
+Father	that's one .
+Allen	w [the alphabetical letter] .
+[ANNOTATION]	Their mother knows the letters.	Entailment
+Father	yeh .
+Father	  okay .
+Allen	xxx w [the alphabetical letter] .
+Father	what is that ?
+Allen	w [the alphabetical letter] .
+Father	that's another w [the alphabetical letter] .
+Father	okay  what's that ?
+Allen	that's a w [the alphabetical letter] .
+Father	that's a w [the alphabetical letter] also .
+Father	see we know our alphabet .
+Allen	that  w [the alphabetical letter] .
+Father	okay , another w [the alphabetical letter] .
+Allen	that  still a w [the alphabetical letter] .
+Father	still a w [the alphabetical letter] .
+Father	what's that ?
+Allen	that's a w [the alphabetical letter] .
+[ANNOTATION]	Their mum made cookies that afternoon.	Neutral
+Father	what's that .
+Allen	w [the alphabetical letter] !
+Father	okay , another w [the alphabetical letter] .
+[ANNOTATION]	There are many w.	Entailment
+Allen	that , that's a . o [the alphabetical letter] .
+Father	that's a i [the alphabetical letter] .
+Allen	w [the alphabetical letter] .
+Father	do you know your colors ?
+Allen	w [the alphabetical letter] .
+Father	oh , everything's a w [the alphabetical letter] .
+Allen	xxx .
+[ANNOTATION]	Their friend is making fun of him because he doesn't know how to read yet.	Neutral
+Father	let's look through them .
+Father	go ahead and get them out yourself .
+Allen	w [the alphabetical letter] .
+Father	another w [the alphabetical letter] .
+Father	what color is it ?
+Allen	that's a w [the alphabetical letter] .
+Father	what color is it ?
+Allen	w [the alphabetical letter] !
+Father	w [the alphabetical letter] ?
+Allen	w [the alphabetical letter] .
+Father	what color is that ?
+Allen	this  is blue .
+Father	okay .
+Allen	blue .
+Father	what color is that ?
+Allen	that's  red .
+Father	okay .
+Father	what color is that ?
+Allen	that's  yellow  .
+Father	yellow ?
+Allen	yellow  .
+Father	that's good .
+Father	alright .
+Father	you wanna get them out_of the box yourself ?
+Father	get them out yourself .
+Allen	ah !
+Allen	I step on xxx .
+Father	don't worry about that .
+Father	that's okay .
+Father	where ya going ?
+Allen	xxx .
+Father	pick them up .
+Father	stack them .
+Father	okay ?
+Allen	okay xxx w [the alphabetical letter] ?
+Allen	w [the alphabetical letter] .
+Allen	w [the alphabetical letter] .
+Allen	what's this ?
+Father	that's an s [the alphabetical letter] .
+Allen	that's a w [the alphabetical letter] .
+Father	that's an s [the alphabetical letter] .
+Allen	that's  x [the alphabetical letter] xxx .
+Father	w [the alphabetical letter] .
+Allen	w [the alphabetical letter] ?
+Father	mhm .
+Father	what color is that ?
+Allen	that's  w [the alphabetical letter] .
+Father	that's w [the alphabetical letter] color .
+Father	that's a new color , right ?
+Allen	what's at xxx .
+Father	that's a machine .
+Allen	want go fast .
+Father	it won't go any faster .
+Father	that's how fast it's sposta go .
+Father	why don't we play with these things ?
+Father	I know where a puzzle . I know where a puzzle is .
+Allen	puzzle  is ?
+Allen	yeah .
+Allen	right here .
+Allen	puzzle  is .
+Father	baby puzzle .
+Father	yeh .
+Allen	puzzle .
+Father	yeh .
+Father	puzzle .
+Father	let's see if we can put it together .
+Allen	that's a . that's  a xxx .
+Father	hm: ?
+Father	can you put it together ?
+Allen	xxx .
+Father	here we go .
+Father	let's put it together .
+Allen	okay .
+Father	where does that piece go ?
+Allen	that's  a good piece .
+Allen	this  goes .
+Father	hm: ?
+Allen	that  goes .
+Father	goes there .
+Allen	that  go there  [* +s] .
+Father	okay .
+Allen	that  goes ?
+Father	where does that piece go ?
+Allen	that  goes , that  go that  .
+Father	no .
+Allen	nope .
+Allen	here Dad .
+Father	let's try another piece .
+Father	where does that piece go ?
+Allen	goes . that  . up , nope !
+Father	that was a nice start .
+Father	wait a minute .
+Father	what is that ?
+Allen	this  is Donald duck .
+Father	Donald duck , huh ?
+Father	okay , let's put it right there .
+Father	is that better ?
+Allen	wanna do it .
+Father	put it right there .
+Allen	right there ?
+Father	mhm .
+Allen	xxx help me turn it again .
+Allen	what that  , dad , daddy , dad xxx .
+Father	hm: ?
+Allen	xxx .
+Father	bet you  can't figure out where that goes .
+Allen	that  goes . &-uh oh .
+Allen	that  .
+Allen	where's another  one , dad ?
+Father	hm: ?
+[ANNOTATION]	Allen doesn't need help when it comes to things related to technology.	Contradiction
+Allen	xxx .
+Father	let's do that one again .
+Father	okay .
+Allen	that  , the  xxx .
+Father	okay .
+Father	right there .
+Allen	right there .
+Allen	where's another  one dad ?
+Allen	good .
+Allen	there  !
+Allen	there  !
+Father	okay .
+Allen	there  !
+[ANNOTATION]	i'm beginning to get good at this.	Entailment
+Father	okay .
+Father	you do the next one .
+[ANNOTATION]	Allen is going to be able to do this all by himself.	Neutral
+Allen	do next one .
+Father	make him look up .
+Father	look up at the sky .
+Allen	Daddy .
+Father	okay .
+Father	last piece .
+Allen	last piece .
+Allen	okay .
+Allen	there  .
+Father	super !
+Father	what do you wanna do now ?
+Allen	xxx pour them out .
+[ANNOTATION]	it's time to do a different activity.	Entailment
+Father	pour them out !
+Father	okay .
+Father	you gotta put them back .
+Father	it's your job .
+Allen	xxx oh daddy +...
+[ANNOTATION]	father doesn't care if Allen put the objects back.	Contradiction
+Father	hm: ?
+Allen	you help it .
+Allen	you help that  , daddy .
+Father	help it ?
+Allen	help daddy .
+Father	would that be easier ?
+Allen	that  +...
+Father	super .
+[ANNOTATION]	Allen is capable of doing this without assistance.	Neutral
+Allen	there  , there  .
+Father	Pat it down .
+Father	now , what's next ?
+Allen	that  what ?
+Allen	what next ?
+Father	hm: ?
+Allen	what next  , daddy ?
+Allen	what next ?
+Allen	what next , dad ?
+Allen	&-uh oh !
+Allen	look his head up .
+Allen	what next , dad .
+Allen	that one , next .
+Allen	Daddy , daddy .
+Father	look here .
+Father	look here .
+Father	who's at ?
+Allen	that's  a [?] ants .
+Father	it's a what ?
+Allen	xxx where's that  one go .
+Father	what's that ?
+Father	you don't know .
+Allen	that  .
+Allen	daddy +...
+Father	good !
+Allen	pour em out , dad .
+Father	hm: ?
+Father	pour them out , again ?
+Father	you like that puzzle don't you  ?
+Allen	puzzle  .
+Father	Daddy buy you a puzzle ?
+Allen	pay those  dad .
+Allen	thank_you .
+Allen	that  .
+Father	it's your turn to put them in .
+Father	that's good .
+Allen	that one doesn't go .
+Father	okay , that's good .
+Allen	that good .
+Father	that's very good .
+Allen	where's a nudder@c .
+Father	hm: ?
+Allen	xxx okay there  .
+Allen	there  .
+Father	there we go .
+Father	good .
+Father	get it in ?
+Father	fix it .
+Allen	oh , daddy , daddy !
+Father	you can do it !
+Father	do it !
+Allen	will you help me fix  up .
+Father	let's try again .
+Father	now you do it .
+Allen	Daddy !
+Father	now you got it .
+Father	you got it !
+Father	alright very good .
+Father	very good .
+Allen	take that off .
+Father	okay let's start again .
+Allen	oh .
+Allen	want ta play the  puzzles  Dad .
+Father	hm: ?
+Allen	I wanna put this  over here Dad .
+Allen	put this  over here dad .
+Father	okay .
+Allen	put this  over here Dad .
+Allen	and put this  over here .

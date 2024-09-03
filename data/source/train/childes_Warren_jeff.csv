@@ -1,0 +1,353 @@
+Jeff	playing ball .
+Mother	you want the ball ?
+Mother	what you  gonna do ?
+Jeff	where Pepper ?
+Mother	where's Pepper ?
+Mother	did Pepper go upstairs ?
+Mother	ah , look Adam !
+Mother	ah !
+Mother	that's a pretty yellow block .
+Mother	can you put something on top ?
+Mother	now !
+Mother	that's good .
+Mother	do you wanna put another one on top ?
+Mother	you're doing pretty good !
+Mother	thank_you .
+Mother	what's this Adam ?
+Jeff	horsie !
+Mother	that's your horsie , right !
+Mother	wanna play with the duck ?
+Jeff	op &-uh it .
+Mother	wanna open it ?
+Mother	okay .
+Mother	now .
+Mother	can you put his feet on ?
+Jeff	where put it ?
+Mother	wanna fix it ?
+Mother	put the feet right there .
+Jeff	where put it , where put it .
+Mother	upside down .
+Mother	okay , now !
+Jeff	put that way .
+Mother	there's a worm .
+Jeff	put that  way .
+Mother	goes that way .
+Mother	okay .
+Mother	what about that ?
+Jeff	Duckie !
+Mother	duck !
+Mother	what does a duck say ?
+Mother	does a duck say quack quack ?
+Jeff	quack quack .
+Mother	yeh !
+Mother	what's that ?
+Mother	is that his wing ?
+Jeff	two to &m +...
+Jeff	xxx .
+Mother	can you put it on ?
+Jeff	xxx .
+Mother	right here .
+Jeff	. duck !
+Mother	a duck .
+Mother	that's right .
+Mother	that's the grass .
+Mother	can you put the grass in ?
+Mother	very good .
+Mother	want ta do it again ?
+Mother	you wanna do it again ?
+Jeff	okay , that  way .
+Mother	okay .
+Mother	now .
+Mother	what's this ?
+Mother	is this his feet ?
+Mother	can you put his feet in ?
+Jeff	where head ?
+Mother	fix it .
+Mother	there you go .
+Mother	what's that ?
+Mother	is that a worm ?
+Mother	what is this ?
+Mother	what's that ?
+[ANNOTATION]	That is a foot	Entailment
+Jeff	duck .
+Mother	what's this ?
+Jeff	what is it ?
+Mother	what is it ?
+Mother	is that his eye ?
+Mother	can you put his head right there ?
+[ANNOTATION]	Mother wants to put the head on his feet	Contradiction
+Mother	uhoh !
+Mother	upside down .
+Mother	turn it around .
+Mother	let's turn it around .
+Mother	now !
+Mother	put his wing .
+Mother	can Adam do it ?
+Jeff	xxx .
+[ANNOTATION]	Adam can do it	Neutral
+Mother	now .
+Mother	there .
+Jeff	. duck . see saw .
+Mother	does that look like a see saw ?
+Mother	is that the grass ?
+Jeff	xxx .
+Mother	can you put it in ?
+Mother	now .
+Mother	what is this ?
+Jeff	a do duck .
+[ANNOTATION]	the duck is in the grass.	Entailment
+Mother	is that a duck .
+Jeff	&-uh open it .
+Mother	you wanna open is ?
+Mother	okay .
+Mother	what's this ?
+Jeff	&-uh duck .
+[ANNOTATION]	the duck is happy	Neutral
+Mother	oh , I'm sorry .
+Mother	you wanna play with the duck .
+Jeff	doe@wp duck .
+Mother	okay .
+Mother	are you calling it Donald duck ?
+Jeff	doh@wp duck .
+[ANNOTATION]	Mother you wanna call it or play with the duck	Contradiction
+Mother	is that Donald duck ?
+Jeff	open it .
+Mother	okay .
+Mother	we'll open it .
+Mother	want ta dump it out ?
+Mother	okay .
+Mother	want ta do it again ?
+Mother	what's that ?
+Jeff	xxx .
+Mother	can you put the piece in ?
+Mother	push it down .
+Jeff	oh: push .
+Mother	can you push it down ?
+Mother	now .
+Mother	what's this ?
+Jeff	the  duck .
+Mother	that's a duck , but what's this right here ?
+Mother	what is that ?
+Jeff	eye .
+Mother	that's right .
+Mother	that's his eye .
+Mother	what's this ?
+Mother	is that his bill ?
+Jeff	the  duck !
+Mother	is this his mouth ?
+Mother	want ta put his head right here ?
+Jeff	okay .
+Mother	now .
+Mother	very good !
+Mother	and there's the worm .
+Mother	there's the worm !
+Mother	want ta put the worm in ?
+Jeff	xxx .
+Mother	goes in here .
+Mother	you got him upside down .
+Mother	can you turn him around ?
+Mother	turn him around .
+Mother	it's upside down .
+Mother	&-uh oh .
+Jeff	xxx .
+Mother	that one's hard to stack .
+Mother	put it on that one ?
+Mother	one , two , three !
+Mother	four !
+Mother	you did four of them !
+Mother	one , two , three !
+Mother	can you count ?
+Mother	you do it !
+Jeff	three  .
+Mother	can you say one ?
+Jeff	two .
+Mother	three !
+Mother	it's a pretty blue block , isn't it Adam .
+Mother	is that a pretty blue block ?
+Jeff	want do one .
+Mother	you want me to do that one ?
+Mother	I think it's going to fall .
+Mother	let's turn it around this way .
+Mother	now !
+Mother	now !
+Mother	can you knock it down ?
+Mother	can you knock it down ?
+Mother	gonna take it down ?
+Mother	here's a pretty yellow one .
+Mother	let's find a red , one .
+Mother	there's a red one .
+Mother	one , two , three , four !
+Jeff	four .
+Mother	that's right , four !
+Jeff	four .
+Mother	you like that number huh ?
+Mother	&-uh oh !
+Mother	did they fall down ?
+Mother	did they fall down ?
+Jeff	fall down .
+Mother	you say they fall down ?
+Jeff	sat down .
+Mother	one .
+Jeff	two .
+Mother	three .
+Jeff	three !
+Mother	four .
+Jeff	oh dote .
+Jeff	xxx .
+Mother	oh that one won't stay up , will it ?
+Mother	let's find another one .
+Mother	you wanna find another one ?
+Mother	there we go .
+Mother	now !
+Mother	you like those colors ?
+Mother	can you knock it down ?
+Mother	can you knock it down ?
+Mother	you gonna take it down ?
+Jeff	free , four , four .
+Mother	you wanna put it in the box ?
+Mother	you gonna put them back in the box ?
+Jeff	book .
+Father	is that a block ?
+Jeff	book .
+Father	you want ta play with the blocks ?
+Jeff	yeh .
+Father	what's that ?
+Jeff	Mokykle .
+Father	motorcycle ?
+Father	yeh .
+Jeff	motorcycle  .
+Jeff	&-uh oh !
+Jeff	xxx away , motorcycle  .
+Father	who's motorcycle is this ?
+Jeff	motorcycle  , motorcycle  .
+Father	is that Drew's ?
+Father	is that Drew's motorcycle ?
+Jeff	no xxx .
+Father	you like those blocks ?
+Jeff	xxx .
+Father	don't throw them son .
+Father	what is that ?
+Jeff	horsie .
+Father	do you like that horsie ?
+Jeff	horsie .
+Father	yeh .
+Jeff	horsie , horsie , horsie !
+Jeff	horsie !
+Father	do you ride a horsie ?
+Jeff	xxx .
+Father	what's that ?
+Jeff	kitty cat .
+Father	no , that's a monkey .
+Father	see that's a monkey .
+Jeff	monkey .
+Father	yeh monkey .
+Father	that's right !
+Father	do you like that monkey ?
+Jeff	xxx .
+Father	do you know what this is ?
+Jeff	xxx .
+Father	see that's the monkey's tail .
+Father	thank_you .
+Jeff	&-um book .
+Father	say those are big blocks , aren't they ?
+Father	can you stack them ?
+Jeff	stack .
+Jeff	xxx .
+Father	yeh , you like that ?
+Father	okay , that's enough .
+Father	you wanna hold the horsie a minute ?
+Father	can you say thank_you ?
+Jeff	xxx .
+Jeff	who horsie ?
+Father	two horsies .
+Father	that's right !
+Father	one .
+Jeff	two .
+Father	two .
+Father	that's right !
+Father	do you want ta hold the ball ?
+Father	is that a big ball ?
+Father	did I catch it ?
+Father	can you catch  it ?
+Father	you like that ?
+Jeff	pay ball .
+Jeff	where ball .
+Father	can you say catch it ?
+Jeff	book .
+Jeff	where book .
+Father	that's a big ball , isn't it ?
+Jeff	say ball ?
+Father	&-uh huh , that's another ball .
+Jeff	where horse .
+Father	do you like that ball ?
+Jeff	xxx .
+Father	what is that ?
+Jeff	truck truck .
+Father	dump truck ?
+Jeff	truck_truck .
+Jeff	truck truck .
+Father	say you like that ball better , don't you  ?
+Father	huh ?
+Jeff	xxx .
+Father	say are you a ball player ?
+Jeff	bawl .
+Jeff	where block go ?
+Father	what ?
+Jeff	where bah ?
+Father	where's the ball ?
+Father	let me get it .
+Father	say we shoulda got your helicopter .
+Father	you like helicopters .
+Father	you want ta play with the helicopter ?
+Father	if I can find it .
+Father	what kind of ball is that ?
+Jeff	foot ball .
+Father	is that a football ?
+Jeff	foot bawl .
+Father	say , we'll find you a helicopter next time .
+Father	say you've only got three of them .
+Jeff	helicop:ter .
+Father	does that sound like , does that sound like a helicopter ?
+Father	say that kinda sounds like it .
+Jeff	car , car .
+Father	this is a car , isn't it ?
+Father	say that's a police car .
+Father	say you like that ball better than anything don't you , huh ?
+Father	can you catch it ?
+Father	catch it ?
+Father	catch it !
+Jeff	0 .
+Father	say , you're a big boy aren't you .
+Father	say where do you play ball at ?
+Father	where do you play at ?
+Father	say you play ball outside , don't you , huh ?
+Jeff	0 .
+Father	do you want ta show that horsie the ball ?
+Jeff	horsie .
+Jeff	horsie .
+Jeff	Mokykle !
+Father	say motorcycle ?
+Father	you want ta spin it ?
+Father	there you go .
+Father	that's fun , isn't it , huh ?
+Father	is that Drew's motorcycle ?
+Father	does Drew play with that .
+Jeff	xxx .
+Father	go get the ball .
+Father	go get it .
+Father	thank_you .
+Father	bring it here .
+Jeff	xxx .
+Father	yeh , it came off the horsie , didn't it ?
+Jeff	xxx .
+Jeff	the horsie .
+Father	yeh , that came off that horsie didn't it ?
+Father	want me to fix it ?
+Father	want me to fix it ?
+Jeff	xxx .
+Father	do you want me to fix it son ?
+Father	okay , Jeff .
+Jeff	xxx .
+Father	can you say Jeff ?
+Jeff	Jeff .
+Father	Jeff .

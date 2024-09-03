@@ -1,0 +1,450 @@
+David	0 .
+Mother	what you laughing about ?
+David	nothing .
+Mother	why don't you +...
+Mother	Christopher , why don't you tell , tell Daddy about you playing
+Mother	didn't Michael take you to play Pac_Man at bumper's junction ?
+Mother	huh ?
+David	yeh .
+Mother	well ?
+Mother	did you win ?
+Mother	what did you do ?
+David	I won !
+Mother	how many games did you play ?
+David	&-um , I don't know .
+Mother	you don't know ?
+Mother	I know what's better to talk about .
+[ANNOTATION]	David won the game.	Entailment
+Mother	you needta tell them about , &-um , junk+man .
+David	xxx .
+Mother	your letter man !
+David	no !
+Mother	yes !
+Mother	tell them what I put all over your shirt .
+Mother	&-um &-um .
+David	sticker .
+Mother	sticker .
+[ANNOTATION]	David won a sticker.	Entailment
+David	and a dress for a Barbie doll , and a wheel , and part of a
+Mother	a bracelet .
+David	a bracelet .
+David	a key , a coat+hanger .
+Mother	and what's on the back ?
+David	&-um .
+Mother	a piece of paper .
+David	piece of paper .
+[ANNOTATION]	there is a key on the back of the piece of paper.	Contradiction
+David	and i [the alphabetical letter] , and a j [the alphabetical letter] , and a pencil , broken , and a button , and a
+Mother	how about those safety+pins ?
+David	I don't see them .
+Mother	all those safety pins that are holding the things on your shirt .
+David	safety pin .
+David	string , string , string , string .
+Mother	and what kind of j [the alphabetical letter] is that ?
+David	capital .
+Mother	and what kind is that ?
+David	a lower case .
+Mother	a lower case , that's right .
+[ANNOTATION]	David knows what a capital letter is.	Neutral
+Mother	so when are you gonna wear that to school ?
+Mother	May the twelfth  , I think .
+David	I think we wear it May the third .
+Mother	no , it's May the twelfth  .
+Mother	is everybody in class gonna be wearing something ?
+David	mhm .
+[ANNOTATION]	David is wearing something special to school in May.	Contradiction
+Mother	well what are the other lettermen , letter people that there's
+Mother	tell me some of the names of the letter people .
+David	a [the alphabetical letter] .
+Mother	and what's a [the alphabetical letter] stand for ?
+David	achoo .
+Mother	achoo ?
+Mother	and what , how about b [the alphabetical letter] ?
+David	beautiful buttons .
+Mother	and , tell me the rest of them .
+David	c [the alphabetical letter] is cotton candy .
+David	d [the alphabetical letter] is delicious donuts .
+Mother	oh I like that .
+Mother	and how about c [the alphabetical letter] ?
+David	I already told you about c [the alphabetical letter] !
+Mother	you did ?
+David	&-uh huh , cotton candy .
+Mother	oh , that's right .
+David	and e [the alphabetical letter] , exercise .
+Mother	okay .
+David	and +...
+Mother	f [the alphabetical letter] .
+David	f [the alphabetical letter] , funny feet .
+Mother	oh !
+Mother	like mine .
+David	but they're big !
+Mother	oh , okay .
+David	and +...
+Mother	g [the alphabetical letter] .
+David	gooey gum .
+Mother	gooey gum , alright .
+David	and , h [the alphabetical letter] , Harry hair .
+Mother	I .
+David	scratchy scratch .
+Mother	no , that's not for i [the alphabetical letter] .
+Mother	is that itchy something ?
+David	itchy itch .
+David	and +...
+Mother	and you got j [the alphabetical letter] , and what'd you say that was ?
+David	jumble junk+man .
+Mother	jumble junk+man .
+Mother	and k [the alphabetical letter] .
+David	kicking kick .
+Mother	kicking kick , alright .
+Mother	l [the alphabetical letter] ?
+David	licking lollipops .
+Mother	m [the alphabetical letter] ?
+David	munchy mouth .
+Mother	n [the alphabetical letter] ?
+David	noisy nose .
+Mother	o [the alphabetical letter] ?
+David	oppsidifit@c .
+Mother	what ?
+Mother	opsid@c ?
+David	I know it's funny .
+Mother	&-uh , p [the alphabetical letter] ?
+David	quiet .
+Mother	no , p [the alphabetical letter] , not q [the alphabetical letter] , p [the alphabetical letter] .
+David	oh , pointy patches .
+Mother	pointy patches , okay .
+Mother	then you've got q [the alphabetical letter] .
+David	quiet .
+Mother	r [the alphabetical letter] ?
+David	ribby@wp rubber bands .
+Mother	s [the alphabetical letter] ?
+David	s [the alphabetical letter] Super Sox .
+Mother	t [the alphabetical letter] ?
+David	tall teeth .
+Mother	tall teeth ?
+Mother	oh , what comes next ?
+Mother	u [the alphabetical letter] .
+David	u [the alphabetical letter] ?
+David	umbrella .
+Mother	umbrella .
+Mother	v [the alphabetical letter] ?
+David	&-um , violent velvet vest .
+Mother	what ?
+Mother	repeat that .
+David	violent velvet vest .
+Mother	a violent velvet vest .
+Mother	okay .
+Mother	w [the alphabetical letter] ?
+David	w [the alphabetical letter] ?
+David	winky wink .
+Mother	winky wink ?
+Mother	x [the alphabetical letter] ?
+David	x [the alphabetical letter] ?
+David	I don't know what his name .
+Mother	he doesn't have a name ?
+Mother	x [the alphabetical letter] , x [the alphabetical letter] +...
+Mother	how about Ex_calibur .
+David	that's it .
+Mother	can you say it ?
+David	Ex_caliber .
+Mother	you did say it .
+Mother	alright .
+Mother	and then we have y [the alphabetical letter] .
+David	y [the alphabetical letter] , yawny yawn .
+Mother	yawny yawn .
+Mother	and z [the alphabetical letter] .
+David	zippering zippers .
+Mother	zipping zippers .
+Mother	that sounds pretty good .
+Mother	so what have we got then ?
+Mother	what is , what are all those letters , together ?
+David	all of them ?
+Mother	if you went all the way down the line .
+Mother	a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] d [the alphabetical letter] e [the alphabetical letter] f [the alphabetical letter] g [the alphabetical letter] +...
+David	a [the alphabetical letter] b [the alphabetical letter] c [the alphabetical letter] d [the alphabetical letter] e [the alphabetical letter] f [the alphabetical letter] g [the alphabetical letter] h [the alphabetical letter] i [the alphabetical letter] j [the alphabetical letter] k [the alphabetical letter] l [the alphabetical letter] m [the alphabetical letter] n [the alphabetical letter] o [the alphabetical letter] p [the alphabetical letter] .
+Mother	go ahead . q [the alphabetical letter] +...
+David	q [the alphabetical letter] r [the alphabetical letter] s [the alphabetical letter] , t [the alphabetical letter] u [the alphabetical letter] v [the alphabetical letter] , w [the alphabetical letter] x [the alphabetical letter] , y [the alphabetical letter] +...
+Mother	and z [the alphabetical letter] .
+David	y [the alphabetical letter] z [the alphabetical letter] .
+Mother	now you know +...
+David	now I know .
+Mother	your alphabet .
+David	my abcs .
+Mother	next time +...
+David	next time won't you sing with me .
+Mother	bravo , bravo .
+Mother	that's very good , very good .
+Mother	what are they doing ?
+David	who ?
+Mother	Mrs Lauderbaugh .
+Mother	she's taking her keys and going off .
+Mother	okay .
+Mother	what are we gonna talk about now ?
+Mother	are you tired ?
+Mother	I'm tired .
+David	I'm not .
+Mother	I am .
+Mother	you should've played soccer with me today .
+David	why ?
+Mother	because , I played for two forty five minute halves .
+Mother	two girls did you see the girl that got hurt over there ?
+David	mhm .
+Mother	two of our girls got hurt .
+David	mhm .
+Mother	one your Daddy hadta carry off the field .
+Mother	Cathy , she hurt her knee .
+Mother	what were you and Matthew doing all day ?
+David	playing .
+Mother	did you play on the hill ?
+David	mhm .
+Mother	did you get your clothes dirty ?
+David	mhm .
+Mother	is that all you can say , &-uh huh ?
+David	mhm .
+Mother	okay .
+Mother	&-um , I'm just about out_of it too .
+Mother	you remember Jean Ellen ?
+David	no .
+Mother	well , that's not gonna do me any good then , is it ?
+David	hmhm .
+Mother	because she got an ear injury today and I thought maybe you'd
+David	I don't .
+Mother	you don't .
+Mother	okay .
+Mother	we called Grandmother Birdsong .
+David	you did .
+Mother	yes .
+Mother	she wanted to know where you were .
+David	she came here ?
+[ANNOTATION]	Don't thing that if you have interest definitely you will get a knowledge	Neutral
+Mother	no , she called up on the phone .
+Mother	what were ya'll doing down at the creek .
+David	playing .
+David	making a dam , and it overflowed  [* +ed-dup] .
+Mother	is that how you got wet ?
+[ANNOTATION]	its very easy to contact others, so please calling regulatly	Neutral
+David	mhm .
+Mother	oh yeh .
+David	we were on the , &-uh , bricks and all of a sudden a gush of wind
+David	that's how we got wet .
+Mother	oh !
+Mother	Todd got wet too , didn't he ?
+David	mhm .
+Mother	who else was down there ?
+David	Travis and Kevin .
+Mother	Travis and Kevin .
+Mother	did they get wet too ?
+Father	what are we gonna talk about ?
+Father	I want ta talk about Pac_Man .
+[ANNOTATION]	its everyone of opinion	Neutral
+David	that's what we are .
+Father	okay .
+Father	  what'd you do the other night when you went to go
+Father	where do we usually go to play ?
+Father	Pac_Man .
+David	&-um , bumpers .
+Father	bumpers what ?
+David	junction .
+[ANNOTATION]	right time to escape	Neutral
+Father	yeh .
+Father	what's your favorite game down there ?
+David	Pac_Man .
+Father	and what else ?
+Father	that's not all you play .
+David	I know .
+Father	what's your favorite game ?
+[ANNOTATION]	They have knowledge of cricket	Neutral
+David	Pac_Man !
+Father	no .
+Father	you know the one that you always pick the ball up and throw +...
+David	that's not my favorite game but Pac_Man is .
+Father	oh , I see .
+[ANNOTATION]	games are best stress relief	Entailment
+David	and one night , I always play that .
+Father	yeh , but you play a_lot_of ski+ball , too , don't you ?
+David	I play +...
+David	know what ?
+David	when Michael brought us and Heidi came , &-um , &-um , &-um +...
+David	I played that worm game .
+Father	you just look at Daddy and talk .
+David	I played that worm game , and I went and I shot them off !
+Father	yeh , how many tickets have you gotten lately ?
+David	&-um .
+Father	how many tickets have you gotten out_of there ?
+Father	have you used them all up ?
+David	only , I only got two .
+Father	two tickets .
+Father	yeh , but you got a lot more before that , didn't you ?
+David	&-uh huh .
+Father	how many did you get ?
+Father	how many is that ?
+Father	count out loud so I can hear ya .
+David	+, seven , eight , nine , ten !
+Father	count them all again real loud !
+Father	I can't hear ya .
+David	one , two , three , four , five , six , seven , eight , nine , ten
+Father	let's play our favorite game .
+Father	remember how to do one potato ?
+David	one potato , two potato , three potato , four , five potato , six
+Father	okay .
+David	one potato , two potato , three potato , four , five potato .
+Father	quit laughing .
+Father	come on , get through here .
+David	seven potato more .
+Father	okay , just between you and me now .
+David	one potato , two potato , three potato , four , five potato , six
+Father	more [ !
+David	more ] !
+Father	&aw !
+Father	yours supposed to be the one that's out .
+David	no , I'm not .
+Father	do it again .
+David	one potato , two potato , three potato four , five potato , six
+Father	that's right .
+David	one potato , no , one potato , two potato , three potato , four ,
+Father	okay .
+Father	here we go .
+David	one potato , two , no wait .
+Father	now you're getting smart !
+David	one potato , two potato , three potato , four , five potato , six
+Father	oops  . I'm out that time .
+Father	I lost didn't I .
+Father	you were telling mommy about all these things on this shirt here ,
+David	&-um hm: .
+Father	yeh .
+Father	what is that ?
+Father	some kind of a special day you're just gonna hafta illustrate the
+Father	is that what you're gonna do ?
+David	no we're +...
+Father	tell everybody about the +...
+David	+, gonna sing out these songs that we sing .
+Father	what kind of song ?
+David	Jumbles !
+[ANNOTATION]	They will sing songs.	Entailment
+David	Junkmanone .
+Father	how does it go ?
+David	I don't remember .
+Father	oh .
+Father	how many songs you gonna sing ?
+David	only one .
+[ANNOTATION]	It's called Junkmanone.	Neutral
+Father	just Jumbles junk+man ?
+Father	well how are you gonna sing it if you don't know the words ?
+David	we have a thing that we , &-um , we have a note how we , we just
+Father	I see .
+Father	the teacher kinda helps you out with the words ?
+David	&-um hm: .
+Father	and what are these ?
+David	we practice here .
+Father	well , why don't you tell me about what you've been doing in
+[ANNOTATION]	The teacher helps David with the words.	Neutral
+David	playing , and , playing with blocks .
+David	once I made a big house , a big building .
+David	almost looked as bad as yours .
+Father	as bad as mine ?
+Father	thanks a lot !
+Father	as bad as mine ?
+Father	thanks .
+Father	you mean as big as mine .
+David	as big as yours !
+Father	oh , thank_you .
+[ANNOTATION]	David is playing with blocks.	Entailment
+Father	thank_you .
+Father	I appreciate that .
+Father	not as bad though .
+David	I mean as , as the same as yours .
+David	the same as yours .
+Father	what is that ?
+Father	Mommy just brought something .
+Father	is that the words to your junk+man song ?
+Father	yeh , can you read it ?
+[ANNOTATION]	It wasn't as bad as he thought.	Entailment
+David	no .
+Father	sure you can .
+Father	what does that say ?
+Father	a junky jewel .
+David	a junky jewel .
+Father	or junky toy .
+[ANNOTATION]	They want a junky jewel.	Neutral
+David	or junky toy .
+Father	makes Mr j [the alphabetical letter] .
+David	makes Mr j [the alphabetical letter] .
+Father	jump for joy !
+David	jump for &j joy !
+Father	anything that's thrown away .
+David	anything that's thrown away .
+Father	is a joy for jumble j [the alphabetical letter] .
+David	is a joy for jumble j [the alphabetical letter] .
+Father	that's right .
+Father	so he just likes all kinds of junk .
+David	mhm .
+David	that's how he is .
+Father	that's the reason all the stuff +...
+[ANNOTATION]	David has no idea what Father is talking about	Contradiction
+Father	oh yeh I see .
+David	he got lots_of junk on him .
+David	see mommy ?
+Father	he's just loaded with junk , isn't he ?
+David	hmhm .
+David	bird cage and fish tank with a fish in it .
+[ANNOTATION]	David can see his mom	Entailment
+David	and , games and j [the alphabetical letter] hat .
+Father	that's an old grate there on top .
+David	that's not a grape !
+David	that +...
+[ANNOTATION]	Father has some work to submit before 2pm	Neutral
+Father	grate .
+David	that's a j [the alphabetical letter] .
+Father	&-um , yeh that's a j [the alphabetical letter] , but that's a grate , there that covers a
+David	oh .
+Father	you know you've seen water go down those on the road haven't you ?
+David	oh .
+Father	what is this ?
+Father	  what is that ?
+David	old shoe .
+Father	that's a foot on the end of that , isn't it ?
+Father	it makes him look like a man .
+[ANNOTATION]	David and Father saw an old shoe	Entailment
+David	mhm .
+Father	have you looked at the whole picture ?
+David	mhm .
+David	but he +...
+David	and there's a truck +...
+David	but know what Daddy ?
+Father	and there's his eye +...
+[ANNOTATION]	the pictures are in white and black	Neutral
+Father	no , that's his hat +...
+David	I know , but Dad , &-um , his , this is a torn up shoe .
+David	this is a torn up shoe , cause it , he , he got it from the
+Father	oh , I see .
+Father	well he's got +...
+Father	yeh , but see that's what it looks like , its kinda making his
+Father	see that j [the alphabetical letter] ?
+Father	that's his leg and it's got a shoe on it .
+[ANNOTATION]	David and his dad are looking at pictures with alphabets	Entailment
+Father	can you use your imagination ?
+Father	look .
+Father	what's that ?
+Father	that's his eye .
+David	eye +...
+Father	what's that ?
+David	nose .
+Father	yeh .
+Father	where's his arm , do you think ?
+Father	look there's another foot .
+David	there's his arm .
+Father	I'm begin +...
+[ANNOTATION]	David can use he's imagination	Neutral
+Father	I'm beginning to see him now .
+Father	can you see him ?
+David	here's his arm .
+Father	mhm .
+David	and there's his fingers .
+[ANNOTATION]	David can't see the arm	Contradiction
+Father	so he's pretty much made up of a little bit of everything , isn't
+David	&-uh huh .
+David	he's made of junk .
+David	that's yarn .
+David	his hair .
+Father	and that's the reason he's called Mr Jumbles j [the alphabetical letter] .
+David	Junk .
+[ANNOTATION]	Mr Jumbles is made of junk	Entailment

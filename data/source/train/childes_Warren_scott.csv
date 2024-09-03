@@ -1,0 +1,372 @@
+Mother	look !
+Mother	oh , boy !
+Mother	say oh , boy !
+Mother	let's spell your name .
+Mother	where's a b [the alphabetical letter] ?
+Scott	sorry .
+Mother	that a b [the alphabetical letter] ?
+Scott	&-uh .
+Mother	where's a r [the alphabetical letter] ?
+Mother	there it is !
+Mother	say r [the alphabetical letter] .
+Mother	what is that ?
+Scott	shoe .
+Mother	say a [the alphabetical letter] .
+Scott	a [the alphabetical letter] .
+Mother	n [the alphabetical letter] .
+Scott	n [the alphabetical letter] .
+Mother	there's a d [the alphabetical letter] .
+Scott	d [the alphabetical letter] , d [the alphabetical letter] .
+Mother	and a o [the alphabetical letter] .
+Scott	o [the alphabetical letter] .
+Mother	I don't see another n [the alphabetical letter] .
+Mother	let's stack them up .
+Mother	look here .
+Mother	put one right here .
+Mother	block .
+Mother	what is at ?
+Scott	duck .
+Mother	duck ?
+Scott	dock .
+Mother	what's that right there ?
+Scott	moo .
+Mother	say eye .
+Scott	eye .
+Mother	nose .
+Scott	no .
+Mother	there's a worm .
+Scott	worm .
+Mother	there's the feet .
+Scott	feet  .
+Mother	what is this ?
+Scott	moo .
+Mother	say cow .
+Scott	cow .
+Mother	there's a nose on the cow .
+Scott	look , look .
+Mother	what is it doing ?
+Mother	it's turning .
+Scott	turn .
+Mother	let's put it together .
+Mother	there's a leg .
+Scott	eee .
+Mother	and there's another leg .
+Scott	I eee .
+Mother	and there's a nose , nose , nose , nose , nose , nose , nose !
+Scott	no no no .
+Mother	here's another nose .
+Mother	look here .
+Mother	gonna come get you !
+Mother	put your puzzle together .
+Mother	look .
+Mother	put this right there .
+Mother	what is that ?
+Scott	ak@b .
+Mother	it's a leg .
+Mother	put it right there .
+Mother	there we go .
+Mother	here's another leg .
+Mother	put it on there , right there .
+[ANNOTATION]	Scott is happy	Neutral
+Mother	there we go .
+Mother	what's this .
+Mother	what's that ?
+Mother	what is that .
+Scott	moo .
+Mother	it's a moo+cow !
+Scott	moo+cow .
+Mother	and there's a duck .
+Scott	duck .
+Mother	and here's some blocks .
+Scott	block  .
+Mother	stack them up .
+[ANNOTATION]	Scott think it's a leg	Contradiction
+Mother	lookee here .
+Mother	look what mommy's doing .
+Mother	oh boy !
+Mother	there we go !
+Mother	stack them up .
+Mother	put one up here .
+Mother	there we go .
+Mother	hand me one .
+Mother	put it up there .
+Mother	say okay !
+[ANNOTATION]	Mother is directing Scott	Entailment
+Mother	put it up there .
+[ANNOTATION]	Scott is playing with Blocks	Entailment
+Mother	oh: .
+Mother	oh no !
+Scott	look , look .
+Mother	what is it doing ?
+Mother	is it turning ?
+Mother	it's a wheel ?
+Scott	wheel .
+Mother	turning ?
+[ANNOTATION]	Scott is touching the wheel	Neutral
+Scott	turn ?
+Mother	around and round .
+Scott	round +...
+Mother	say round and round .
+Mother	oh no !
+Mother	say timber !
+Scott	timber .
+Mother	say look out !
+Mother	here we come !
+Mother	oh , oh . let's put it this way .
+Mother	there we go .
+Scott	shoe shoe .
+Mother	what ?
+Mother	what is that ?
+Mother	lookee here .
+Mother	there's a boy .
+Scott	bow .
+Mother	and he's playing with some blocks .
+Mother	yeah !
+Mother	look at em .
+Mother	timber !
+Mother	where's Corky ?
+Mother	is Corky eating ?
+Mother	did Corky go night_night ?
+Mother	what is that again .
+Scott	dock , dock .
+Mother	what does a duck say ?
+Scott	ah ?
+Mother	what does a duck say ?
+Mother	does it go quack quack .
+Scott	kak@o , kak@o .
+Mother	what does a cow say ?
+Mother	moo .
+Scott	moo !
+Mother	mhm .
+Scott	ball , ball .
+Mother	yeh .
+Mother	what's in there ?
+Mother	is it all_gone ?
+Scott	ah .
+Mother	oh .
+Mother	are you cleaning up ?
+Mother	you wanna shut it ?
+Mother	wanna close it ?
+Mother	okay .
+Mother	where are they ?
+Mother	oh boy .
+Scott	oh bow .
+Mother	oh , boy !
+Scott	look , look .
+Mother	who is this right there ?
+Mother	who is that ?
+Scott	Ukkie .
+Mother	who is that ?
+Scott	Daddy .
+Mother	and who am I ?
+Scott	Matty .
+Mother	who ?
+Scott	Daddy .
+Mother	that's Daddy .
+Mother	who am I ?
+Scott	ah ?
+Mother	who am I ?
+Scott	eee .
+Mother	that's Amye .
+Scott	ah eee .
+Mother	who's over there in the chair ?
+Scott	huh ?
+Mother	who's that over there in the chair ?
+Scott	huh ?
+Mother	who's that over there in the chair ?
+Scott	&ha ?
+Mother	is that Mike ?
+Scott	Ann ?
+Mother	Mike ?
+Scott	Mak .
+Mother	where's Papa ?
+Scott	peep .
+Mother	Meemaw and Papa ?
+Mother	where are they ?
+Scott	Meemaw Papa .
+Mother	where is Papa ?
+Mother	oh yeh .
+Mother	where is Papa ?
+Mother	did you go see Meemaw last night ?
+Mother	and Gary ?
+Mother	did you see Gary ?
+Scott	Han ?
+Mother	did you see Gary ?
+Scott	book .
+Mother	book ?
+Scott	book .
+Mother	do you have a book ?
+Scott	oo , oo: .
+Father	what you got , fishes ?
+Scott	show shi@c .
+Father	yeah !
+Father	let's look at the fishes .
+Scott	unh .
+Father	let's look at them .
+Father	what is at ?
+Father	what's this right here ?
+Scott	duck .
+Father	oo: . what's at ?
+Scott	duck .
+Father	oh , ya , they're not all ducks !
+Father	what's at ?
+Scott	shoe shoe .
+Father	mhm , that's good .
+Scott	shoe  .
+Father	yeah .
+Father	and what's that ?
+[ANNOTATION]	There are no shoes nearby.	Contradiction
+Scott	horsie  .
+Father	horsie .
+Scott	horsie  .
+Father	say horsie .
+Father	what's at ?
+Father	is that an airplane ?
+Father	what's this ?
+Scott	a . oo: .
+Father	tell him hey !
+Scott	hey .
+Father	say hey ?
+[ANNOTATION]	Scott will call the animal by the correct name.	Neutral
+Father	Corky .
+Scott	hi Corkey .
+Father	oh , give him loving .
+Father	there you go , yeh .
+Father	love him .
+Father	yeah !
+Scott	hi Koko .
+[ANNOTATION]	There is a duck nearby.	Entailment
+Scott	hi Koko .
+Father	yeah .
+Father	what do you think about that ?
+Father	hm: ?
+[ANNOTATION]	Scott knows what horsie means.	Neutral
+Father	wanna play with him ?
+Scott	book .
+Father	book .
+Father	gonna let him see your book ?
+Scott	Koko ah Koko .
+Father	yeh .
+Scott	hi Koko .
+Father	let's look at the book .
+Father	you don't wanna look at it , do you ?
+Scott	doo ?
+Father	yeah .
+[ANNOTATION]	Scott wants to share his book.	Neutral
+Scott	hi Koko .
+Scott	hi Koko .
+Scott	hi Koko .
+Father	you don't wanna look at the book do you ?
+Father	you wanna play with Corky .
+[ANNOTATION]	Scott recognized Koko.	Contradiction
+Scott	hi Koko .
+Father	oops .
+Father	yeh .
+Father	he wants to play with your toys , okay ?
+Scott	0 .
+Father	yeh .
+Father	here you go .
+Father	nuhhuh , come here .
+Father	what's he doing ?
+Father	is he playing with your toys ?
+Scott	huh ?
+Father	is he playing with your toys ?
+Scott	huh ?
+Father	say , you don't mind do you ?
+Father	hm: ?
+Scott	hi Koko .
+Father	here you go .
+Scott	hi Koko .
+Father	see if you can make all them , Bubba .
+Father	sit down here !
+Father	let's make it open .
+Father	how do you make this one open ?
+Father	hm: ?
+Father	push it !
+Scott	ow oo .
+Father	who is that ?
+Scott	ow oo .
+Father	say Mickey mouse .
+Scott	Gowk .
+Father	that don't sound like Mickey mouse .
+Scott	ay .
+Father	who is at ?
+Scott	goof [= Goofy] .
+Father	is at mama ?
+Scott	Mama ?
+Father	oh: .
+Scott	duck !
+Father	duck , yeh , that's Donald duck .
+Father	Gyalee , you're getting you're pretty good .
+Father	let's close them back .
+Father	oh , that was good .
+Father	push it that way .
+Father	what's that ?
+Scott	duck .
+Father	that's not a duck .
+Father	say goofy .
+Scott	goof .
+Father	what's that ?
+Scott	duck , duck .
+Father	no , that's elephant .
+Scott	nunut@b .
+Scott	duck .
+Father	hmhm .
+Scott	duck .
+Father	hmhm .
+Father	say Mickey mouse ?
+Scott	Gokanny ?
+Scott	Koko ?
+Father	no , who is at ?
+Scott	Koko .
+Father	you know who that is .
+Scott	Koko , Koko .
+Father	that's a duck .
+Scott	duck .
+Father	wanna do this one ?
+Father	what's that what is that ?
+Scott	shoe .
+Father	open this one .
+Scott	hm: ?
+Father	open this one .
+Father	close them all back now .
+Scott	&hah ?
+Father	close them all back .
+Father	close them back .
+Father	good boy .
+Scott	oh bow .
+Father	yeh .
+Scott	Koko go ?
+Father	where'd Corky go ?
+Father	look around .
+Father	xxx Mama's gonna go get him .
+Father	&aw .
+Father	rub his foot .
+Father	yeh !
+Father	what you think about that ?
+Scott	ah Koko !
+Father	come here .
+Father	where are you going ?
+Scott	ah Koko !
+Scott	ah Koko !
+Father	is he trying to eat your toys ?
+Father	uhuh .
+Scott	hi Koko .
+Father	not gonna let him eat it ?
+Father	hurt , didn't it ?
+Father	you helping him eat it ?
+Father	hm: ?
+Father	no , you're not gonna let him have none ?
+Father	hm: ?
+Father	he'll bite your face !
+Father	talk to him !
+Father	talk to him !
+Father	what is that ?
+Father	that a carrot ?
+Scott	m [the alphabetical letter] okay !
+Father	Mike ?
+Father	is that Mike ?
+Father	get choked ?
+Father	we'll do this tomorrow .
+Father	you're not gonna talk no more for us ?
+Father	huh ?
